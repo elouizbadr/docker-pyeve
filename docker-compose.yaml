@@ -1,0 +1,20 @@
+version: '3.0' # specify docker-compose version
+ 
+# Define the services/ containers to be run
+services: 
+ python-eve:
+  build:  # specify the directory of the Dockerfile
+    context: . # specify image to build container from
+    args:
+      PORT: 3000
+  environment:
+    PORT: 3000
+  ports:
+  - "3000:3000" #specify ports mapping
+  links:
+  - mongo # link this service to the mongo service
+ 
+ mongo:
+  image: mongo:3.6
+  ports:
+  - "27017:27017" # specify port forwarding
