@@ -18,6 +18,10 @@
 import os
 from eve import Eve
 
+my_settings = {
+    'MONGO_QUERY_BLACKLIST': [],
+}
+
 # Heroku support: bind to PORT if defined, otherwise default to 5000.
 if 'PORT' in os.environ:
     port = int(os.environ.get('PORT'))
@@ -28,7 +32,7 @@ else:
     port = 5000
     host = '127.0.0.1'
 
-app = Eve()
+app = Eve(settings=my_settings)
 
 
 if __name__ == '__main__':
