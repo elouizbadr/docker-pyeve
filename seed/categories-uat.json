@@ -1,0 +1,218 @@
+[
+    {
+        "_id": "d0cea432-5a35-48ef-a1c1-7a45aef5cc3c",
+        "value": {
+            "FR": "Entretien",
+            "EN": "Care",
+            "ES": "Mantenimiento"
+        },
+        "sort": 1,
+        "key": "entretiencaremantenimiento",
+        "icon": {
+            "name": "Picto_Entretien.png",
+            "ETag": "\"ce2403b062f3d38539122378b58fc6d5\"",
+            "Bucket": "ziwig-moonkee-assets-prod",
+            "key": "1556286370748940_Picto_Entretien.png",
+            "Key": "1556286370748940_Picto_Entretien.png",
+            "Location": "https://ziwig-moonkee-assets-prod.s3.eu-west-1.amazonaws.com/1556286370748940_Picto_Entretien.png"
+        }
+    },
+    {
+        "_id": "b2bcb93b-8427-4c86-8000-34822ebd2aad",
+        "value": {
+            "FR": "Vie pratique",
+            "EN": "Everyday life",
+            "ES": "Vida practica"
+        },
+        "sort": 1,
+        "key": "vie pratiqueeveryday lifevida practica",
+        "icon": {
+            "name": "Picto_Viepratique.png",
+            "ETag": "\"dfca9b97838fb47d533e5917331cb8dc\"",
+            "Bucket": "ziwig-moonkee-assets-prod",
+            "key": "1556285425718369_Picto_Viepratique.png",
+            "Key": "1556285425718369_Picto_Viepratique.png",
+            "Location": "https://ziwig-moonkee-assets-prod.s3.eu-west-1.amazonaws.com/1556285425718369_Picto_Viepratique.png"
+        }
+    },
+    {
+        "_id": "1d6d5553-3934-4196-a55f-a3a4468c8ba8",
+        "value": {
+            "FR": "Prévention",
+            "EN": "Prevention",
+            "ES": "Prevención"
+        },
+        "sort": 1,
+        "key": "préventionpreventionprevención",
+        "icon": {
+            "name": "Picto_prevention.png",
+            "ETag": "\"bf1268177a90b7da7bf93fb92c088b5c\"",
+            "Bucket": "ziwig-moonkee-assets-prod",
+            "key": "1556285711178511_Picto_prevention.png",
+            "Key": "1556285711178511_Picto_prevention.png",
+            "Location": "https://ziwig-moonkee-assets-prod.s3.eu-west-1.amazonaws.com/1556285711178511_Picto_prevention.png"
+        }
+    },
+    {
+        "_id": "6407f87d-e308-44f5-b754-4fabf43188c9",
+        "value": {
+            "FR": "Objets connectés",
+            "EN": "Connected object",
+            "ES": "Objetos conectados"
+        },
+        "sort": 1,
+        "key": "objets connectésconnected objectobjetos conectados",
+        "icon": {
+            "name": "Picto_objetconnecte.png",
+            "ETag": "\"ffef1b73f8c28c0d2f4d7fcb9bbf16b2\"",
+            "Bucket": "ziwig-moonkee-assets-prod",
+            "key": "1556285621051766_Picto_objetconnecte.png",
+            "Key": "1556285621051766_Picto_objetconnecte.png",
+            "Location": "https://ziwig-moonkee-assets-prod.s3.eu-west-1.amazonaws.com/1556285621051766_Picto_objetconnecte.png"
+        }
+    },
+    {
+        "_id": "bcf09c7c-7ed6-4345-ad1a-dc857bda4f7e",
+        "value": {
+            "FR": "Jeux",
+            "EN": "Games",
+            "ES": "Juegos"
+        },
+        "sort": 1,
+        "key": "jeuxgamesjuegos",
+        "icon": {
+            "name": "Picto_Activité2.png",
+            "ETag": "\"756e925fa2d1a184afa876bda72b15b0\"",
+            "Bucket": "ziwig-moonkee-assets-prod",
+            "key": "1556286288814626_Picto_Activité2.png",
+            "Key": "1556286288814626_Picto_Activité2.png",
+            "Location": "https://ziwig-moonkee-assets-prod.s3.eu-west-1.amazonaws.com/1556286288814626_Picto_Activit%C3%A92.png"
+        }
+    },
+    {
+        "_id": "508340c3-b0eb-488e-b179-fd58ce028467",
+        "value": {
+            "FR": "Education",
+            "EN": "Education",
+            "ES": "Educación"
+        },
+        "sort": 1,
+        "key": "educationeducationeducación",
+        "icon": {
+            "name": "Picto_Education.png",
+            "ETag": "\"d03350c6fafe2958ab0e90da4140799c\"",
+            "Bucket": "ziwig-moonkee-assets-prod",
+            "key": "1556286178982939_Picto_Education.png",
+            "Key": "1556286178982939_Picto_Education.png",
+            "Location": "https://ziwig-moonkee-assets-prod.s3.eu-west-1.amazonaws.com/1556286178982939_Picto_Education.png"
+        }
+    },
+    {
+        "_id": "72dabb2a-f0fd-4650-929b-d40655e1fe06",
+        "value": {
+            "FR": "Comportement",
+            "EN": "Behavior",
+            "ES": "Comportamiento"
+        },
+        "sort": 1,
+        "key": "comportementbehaviorcomportamiento",
+        "icon": {
+            "name": "Picto_Activité.png",
+            "ETag": "\"4032f5718629821f9f600ae05baddadd\"",
+            "Bucket": "ziwig-moonkee-assets-prod",
+            "key": "1556286270237941_Picto_Activité.png",
+            "Key": "1556286270237941_Picto_Activité.png",
+            "Location": "https://ziwig-moonkee-assets-prod.s3.eu-west-1.amazonaws.com/1556286270237941_Picto_Activit%C3%A9.png"
+        }
+    },
+    {
+        "_id": "82123853-ed30-405c-b015-f4ab78430855",
+        "value": {
+            "FR": "Maladie",
+            "EN": "Disease",
+            "ES": "Enfermedad"
+        },
+        "sort": 1,
+        "key": "maladiediseaseenfermedad",
+        "icon": {
+            "name": "Picto_PathologieChronique.png",
+            "ETag": "\"b68e77245211f988e5420854ca77ef8b\"",
+            "Bucket": "ziwig-moonkee-assets-prod",
+            "key": "1556285355260590_Picto_PathologieChronique.png",
+            "Key": "1556285355260590_Picto_PathologieChronique.png",
+            "Location": "https://ziwig-moonkee-assets-prod.s3.eu-west-1.amazonaws.com/1556285355260590_Picto_PathologieChronique.png"
+        }
+    },
+    {
+        "_id": "a178078f-48ae-4b47-8fc7-ca386354bc8d",
+        "value": {
+            "FR": "Nutrition",
+            "EN": "Nutrition",
+            "ES": "Nutrición"
+        },
+        "sort": 1,
+        "key": "nutritionnutritionnutrición",
+        "icon": {
+            "name": "Picto_Nutrition.png",
+            "ETag": "\"10035c89a9f1dc2742f665b9413cb48e\"",
+            "Bucket": "ziwig-moonkee-assets-prod",
+            "key": "1556286157229694_Picto_Nutrition.png",
+            "Key": "1556286157229694_Picto_Nutrition.png",
+            "Location": "https://ziwig-moonkee-assets-prod.s3.eu-west-1.amazonaws.com/1556286157229694_Picto_Nutrition.png"
+        }
+    },
+    {
+        "_id": "f9f1b9fd-a60b-4905-a1cf-49766356d7d0",
+        "value": {
+            "FR": "Reproduction",
+            "EN": "Breeding",
+            "ES": "Reproducción"
+        },
+        "sort": 1,
+        "key": "reproductionbreedingreproducción",
+        "icon": {
+            "name": "iStock-1127822958.png",
+            "ETag": "\"d096fa654e60eaf1b8f4d97bab6a4af9\"",
+            "Bucket": "ziwig-moonkee-assets-prod",
+            "key": "1556286075957439_iStock-1127822958.png",
+            "Key": "1556286075957439_iStock-1127822958.png",
+            "Location": "https://ziwig-moonkee-assets-prod.s3.eu-west-1.amazonaws.com/1556286075957439_iStock-1127822958.png"
+        }
+    },
+    {
+        "_id": "834024f9-b275-46fd-be5f-00afad8ef2e0",
+        "value": {
+            "FR": "Animal âgé",
+            "EN": "Old animal",
+            "ES": "Animal viejo"
+        },
+        "sort": 1,
+        "key": "animal âgéold animalanimal viejo",
+        "icon": {
+            "name": "Picto_animalage.png",
+            "ETag": "\"bc6d65cb438c1decead672fdf2b0e5cd\"",
+            "Bucket": "ziwig-moonkee-assets-prod",
+            "key": "1556286015523619_Picto_animalage.png",
+            "Key": "1556286015523619_Picto_animalage.png",
+            "Location": "https://ziwig-moonkee-assets-prod.s3.eu-west-1.amazonaws.com/1556286015523619_Picto_animalage.png"
+        }
+    },
+    {
+        "_id": "c1e80824-66a8-485c-ac3c-665e294f0a2b",
+        "value": {
+            "FR": "Bien-être",
+            "EN": "Wellness",
+            "ES": "Bienestar"
+        },
+        "sort": 1,
+        "key": "bien-êtrewellnessbienestar",
+        "icon": {
+            "name": "Picto_Bienêtre.png",
+            "ETag": "\"37aedea9ee0d4eab8f59c96e40db3e09\"",
+            "Bucket": "ziwig-moonkee-assets-prod",
+            "key": "1556285288096637_Picto_Bienêtre.png",
+            "Key": "1556285288096637_Picto_Bienêtre.png",
+            "Location": "https://ziwig-moonkee-assets-prod.s3.eu-west-1.amazonaws.com/1556285288096637_Picto_Bien%C3%AAtre.png"
+        }
+    }
+]

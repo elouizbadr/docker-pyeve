@@ -1,0 +1,261 @@
+[
+    {
+        "_id": "d623d1aa-6a18-4d0a-9a74-b15bad4c7d85",
+        "createdAt": "2019-05-27T12:28:36.064Z",
+        "value": {
+            "FR": "Solitude",
+            "EN": "Loneliness",
+            "ES": "Soledad"
+        },
+        "key": "solitudelonelinesssoledad",
+        "updatedAt": "2019-07-24T12:36:40.608Z"
+    },
+    {
+        "_id": "397e7a12-51b6-461e-a950-9ed621a7c49a",
+        "createdAt": "2019-04-26T13:19:00.453Z",
+        "value": {
+            "FR": "Chien",
+            "EN": "Dog",
+            "ES": "Perro"
+        },
+        "key": "chiendogperro",
+        "updatedAt": "2019-07-24T12:36:58.430Z"
+    },
+    {
+        "_id": "1cef50a8-013a-4f84-a0f1-7198570c85fd",
+        "createdAt": "2019-04-26T13:22:11.323Z",
+        "value": {
+            "FR": "Vétérinaire",
+            "EN": "Veterinary",
+            "ES": "Veterinario"
+        },
+        "key": "vétérinaireveterinaryveterinario",
+        "updatedAt": "2019-07-24T12:37:13.053Z"
+    },
+    {
+        "_id": "4bf8e739-1343-429c-a555-9747b0bf740d",
+        "createdAt": "2019-05-27T12:47:06.450Z",
+        "value": {
+            "FR": "Promenade",
+            "EN": "Walk",
+            "ES": "Caminata"
+        },
+        "key": "promenadewalkcaminata",
+        "updatedAt": "2019-07-24T12:37:36.395Z"
+    },
+    {
+        "_id": "ba1a4a5f-3f1c-465f-b252-237c989f3262",
+        "createdAt": "2019-04-26T13:23:06.476Z",
+        "value": {
+            "FR": "Médicament",
+            "EN": "Medicine",
+            "ES": "Medicamentos"
+        },
+        "key": "médicamentmedicinemedicamentos",
+        "updatedAt": "2019-07-24T12:38:08.962Z"
+    },
+    {
+        "_id": "96ec1cf5-48d2-456a-9a7d-48f3a057d619",
+        "createdAt": "2019-04-26T13:24:12.330Z",
+        "value": {
+            "FR": "Prédispositions",
+            "EN": "Predisposition",
+            "ES": "Predisposición"
+        },
+        "key": "prédispositionspredispositionpredisposición",
+        "updatedAt": "2019-07-24T12:38:36.099Z"
+    },
+    {
+        "_id": "a6b4a372-24a2-401f-aca9-d130d450e61f",
+        "createdAt": "2019-04-26T13:20:18.650Z",
+        "value": {
+            "FR": "Douleur",
+            "EN": "Pain",
+            "ES": "Dolor"
+        },
+        "key": "douleurpaindolor",
+        "updatedAt": "2019-07-24T12:38:48.268Z"
+    },
+    {
+        "_id": "1714c8d9-9d00-4ef1-9159-8d501627145d",
+        "createdAt": "2019-04-26T13:18:34.477Z",
+        "value": {
+            "FR": "Chaton",
+            "EN": "Kitten",
+            "ES": "Gatito"
+        },
+        "key": "chatonkittengatito",
+        "updatedAt": "2019-07-24T12:38:59.695Z"
+    },
+    {
+        "_id": "92b42974-7c22-441b-9f5d-2ff84e7c5c4c",
+        "createdAt": "2019-04-26T13:19:54.687Z",
+        "value": {
+            "FR": "Deuil",
+            "EN": "Mourning",
+            "ES": "Luto"
+        },
+        "key": "deuilmourningluto",
+        "updatedAt": "2019-07-24T12:39:16.116Z"
+    },
+    {
+        "_id": "d7ffd6f9-d253-415a-83f9-c58b39eb552b",
+        "createdAt": "2019-05-21T15:02:03.997Z",
+        "value": {
+            "FR": "Quizz",
+            "EN": "Quizz",
+            "ES": "Quizz"
+        },
+        "key": "quizzquizzquizz",
+        "updatedAt": "2019-07-24T12:39:39.524Z"
+    },
+    {
+        "_id": "13a4c4c3-4491-461f-876b-efafd74bdfca",
+        "createdAt": "2019-04-26T13:22:45.436Z",
+        "value": {
+            "FR": "Toiletteur",
+            "EN": "Groomer",
+            "ES": "Peluquero"
+        },
+        "key": "toiletteurgroomerpeluquero",
+        "updatedAt": "2019-07-24T12:39:55.219Z"
+    },
+    {
+        "_id": "8453fd9a-155e-404f-9edb-dcd1321dd4d6",
+        "createdAt": "2019-04-26T13:20:59.270Z",
+        "value": {
+            "FR": "Vieillesse",
+            "EN": "Old age",
+            "ES": "Vejez"
+        },
+        "key": "vieillesseold agevejez",
+        "updatedAt": "2019-07-24T12:40:25.546Z"
+    },
+    {
+        "_id": "e6947ed5-8752-4d11-9ab6-9bbec099ffb9",
+        "createdAt": "2019-04-26T13:20:08.265Z",
+        "value": {
+            "FR": "Incinération",
+            "EN": "Incineration"
+        },
+        "key": "incinérationincineration",
+        "updatedAt": "2019-04-26T13:20:08.265Z"
+    },
+    {
+        "_id": "f91684fe-3f21-431f-ab75-55a59c029386",
+        "createdAt": "2019-05-27T12:38:13.787Z",
+        "value": {
+            "FR": "Sommeil"
+        },
+        "key": "sommeil",
+        "updatedAt": "2019-05-27T12:38:13.787Z"
+    },
+    {
+        "_id": "510d0d68-3428-4203-9bbd-d188d45962d0",
+        "createdAt": "2019-04-26T13:19:36.562Z",
+        "value": {
+            "FR": "Socialisation",
+            "EN": "Socialization"
+        },
+        "key": "socialisationsocialization",
+        "updatedAt": "2019-04-26T13:19:36.562Z"
+    },
+    {
+        "_id": "050ef0b8-d656-44b0-9288-cc87ea99f9eb",
+        "createdAt": "2019-04-26T13:19:45.144Z",
+        "value": {
+            "FR": "Chiot",
+            "EN": "Puppy"
+        },
+        "key": "chiotpuppy",
+        "updatedAt": "2019-04-26T13:19:45.144Z"
+    },
+    {
+        "_id": "cb15aad1-3c81-49ef-b288-f9e5c2844cdc",
+        "createdAt": "2019-04-26T13:18:47.872Z",
+        "value": {
+            "FR": "Fin de vie",
+            "EN": "End of life"
+        },
+        "key": "fin de vieend of life",
+        "updatedAt": "2019-04-26T13:18:47.872Z"
+    },
+    {
+        "_id": "d7399b3e-5790-44b2-b0ab-39049407dfd5",
+        "createdAt": "2019-04-26T13:21:38.949Z",
+        "value": {
+            "FR": "Activité",
+            "EN": "Activity"
+        },
+        "key": "activitéactivity",
+        "updatedAt": "2019-04-26T13:21:38.949Z"
+    },
+    {
+        "_id": "d718fddd-bcb6-471d-bf77-4340c1cab42f",
+        "createdAt": "2019-04-26T13:21:59.642Z",
+        "value": {
+            "FR": "Naturel",
+            "EN": "Natural"
+        },
+        "key": "naturelnatural",
+        "updatedAt": "2019-04-26T13:21:59.642Z"
+    },
+    {
+        "_id": "3de88e9e-7e26-431c-9b15-bd3bb7a07fe0",
+        "createdAt": "2019-04-26T13:20:29.916Z",
+        "value": {
+            "FR": "Euthanasie",
+            "EN": "Euthanasia"
+        },
+        "key": "euthanasieeuthanasia",
+        "updatedAt": "2019-04-26T13:20:29.916Z"
+    },
+    {
+        "_id": "813afadf-3772-4f5e-97d2-4e25836de9fd",
+        "createdAt": "2019-05-21T11:49:11.976Z",
+        "value": {
+            "FR": "Propreté"
+        },
+        "key": "propreté",
+        "updatedAt": "2019-05-21T11:49:11.976Z"
+    },
+    {
+        "_id": "9f4a3de9-1524-4262-930d-b58094242077",
+        "createdAt": "2019-04-26T13:22:28.044Z",
+        "value": {
+            "FR": "Eleveur",
+            "EN": "Breeder"
+        },
+        "key": "eleveurbreeder",
+        "updatedAt": "2019-04-26T13:22:28.044Z"
+    },
+    {
+        "_id": "737de5d5-20a6-44c6-8b09-d558690815f6",
+        "createdAt": "2019-04-26T13:19:23.068Z",
+        "value": {
+            "FR": "Problème urinaire",
+            "EN": "Urinary disease"
+        },
+        "key": "problème urinaireurinary disease",
+        "updatedAt": "2019-04-26T13:19:23.068Z"
+    },
+    {
+        "_id": "ec625403-2e0e-4f2d-8c73-41567a6a2620",
+        "createdAt": "2019-04-26T13:19:08.925Z",
+        "value": {
+            "FR": "Chat",
+            "EN": "Cat"
+        },
+        "key": "chatcat",
+        "updatedAt": "2019-04-26T13:19:08.925Z"
+    },
+    {
+        "_id": "0c0126a6-3a7b-40c8-b4bb-4aa6e24fcadd",
+        "createdAt": "2019-05-27T12:47:15.126Z",
+        "value": {
+            "FR": "Extérieur"
+        },
+        "key": "extérieur",
+        "updatedAt": "2019-05-27T12:47:15.126Z"
+    }
+]

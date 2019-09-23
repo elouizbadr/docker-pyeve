@@ -1,0 +1,3002 @@
+[
+    {
+        "keyCatchPhrase": "comment éduquer son chiot ",
+        "expert": "d63776c0-a3bb-4e49-a1b7-ebae30766707",
+        "status": {
+            "FR": {
+                "translation": {
+                    "progress": 100,
+                    "total": 3,
+                    "completed": 3
+                },
+                "isSubmitted": false,
+                "submittedId": null,
+                "submittedDate": null
+            },
+            "EN": {
+                "translation": {
+                    "progress": 0,
+                    "total": 0,
+                    "completed": 0
+                },
+                "isSubmitted": false,
+                "submittedId": null,
+                "submittedDate": null
+            },
+            "ES": {
+                "translation": {
+                    "progress": 0,
+                    "total": 0,
+                    "completed": 0
+                },
+                "isSubmitted": false,
+                "submittedId": null,
+                "submittedDate": null
+            }
+        },
+        "createdAt": "2019-08-08T13:24:24.932Z",
+        "time": {
+            "duration": null,
+            "unite": null
+        },
+        "lastUpdatedAt": {
+            "FR": "2019-08-20T08:18:46.444Z"
+        },
+        "evaluation": [],
+        "name": {
+            "FR": "Accueillez votre chiot dans les meilleures conditions possibles "
+        },
+        "idResource": [
+            "094767d2-cd9e-45e3-8a4c-ad5a8eecf692",
+            "2882ce1c-d749-49ba-b957-6dde94236715",
+            "2d954f86-ebb0-49de-96e9-d5738bdab051",
+            "d8e601f6-9510-4de0-8ff9-a5399f8fb2f0",
+            "8b183303-2884-42bf-93d5-bd1d4e6aa308",
+            "f4f4c9a0-6107-43a9-b0f8-25b3ff5a19f9",
+            "879f963a-2d95-4f70-ba72-9c98bf253c3e",
+            "47a1a72a-8d8c-413a-91d7-4c56f624b1f4",
+            "55debae8-fb33-4880-84ef-761764387fb0",
+            "a63e3da4-5ace-42fe-a64e-ad15cdf093bc",
+            "3c11970c-82da-4337-a10e-6dc5d8348754",
+            "b6cbe8be-14a7-45c1-85fb-eb44b95cb16b",
+            "d8fe0467-0dde-424e-8a5f-b5123abc976e"
+        ],
+        "active": true,
+        "catchPhrase": {
+            "FR": "Comment éduquer son chiot "
+        },
+        "image": null,
+        "_id": "cb68f7fe-b2f4-46d2-a4b2-b6cb00c7c3c3",
+        "category": "508340c3-b0eb-488e-b179-fd58ce028467",
+        "steps": [
+            {
+                "depth": 0,
+                "min": 1,
+                "children": [
+                    {
+                        "id": "1566287645025961",
+                        "sort": 1,
+                        "depth": 1,
+                        "_id": 917644612997,
+                        "type": "resource",
+                        "resource": "094767d2-cd9e-45e3-8a4c-ad5a8eecf692"
+                    }
+                ],
+                "max": 1,
+                "and": true,
+                "gap": 30,
+                "name": {
+                    "FR": "Accepter le temps d'apprentissage"
+                },
+                "id": "1565270543318826",
+                "sort": 1,
+                "_id": 810122974927,
+                "type": "step"
+            },
+            {
+                "depth": 0,
+                "min": 3,
+                "children": [
+                    {
+                        "id": "1566287784534718",
+                        "sort": 1,
+                        "depth": 1,
+                        "_id": 3098568040046,
+                        "type": "resource",
+                        "resource": "2882ce1c-d749-49ba-b957-6dde94236715"
+                    },
+                    {
+                        "id": "1566287784544902",
+                        "sort": 2,
+                        "depth": 1,
+                        "_id": 1632463029481,
+                        "type": "resource",
+                        "resource": "2d954f86-ebb0-49de-96e9-d5738bdab051"
+                    },
+                    {
+                        "id": "156628778454515",
+                        "sort": 3,
+                        "depth": 1,
+                        "_id": 1510268565739,
+                        "type": "resource",
+                        "resource": "d8e601f6-9510-4de0-8ff9-a5399f8fb2f0"
+                    }
+                ],
+                "max": 3,
+                "and": true,
+                "gap": 30,
+                "name": {
+                    "FR": "Apprendre la propreté"
+                },
+                "id": "1565270612727461",
+                "sort": 2,
+                "_id": 2201134540969,
+                "type": "step"
+            },
+            {
+                "depth": 0,
+                "min": 3,
+                "children": [
+                    {
+                        "id": "1566287935902777",
+                        "sort": 1,
+                        "depth": 1,
+                        "_id": 9427532079020,
+                        "type": "resource",
+                        "resource": "8b183303-2884-42bf-93d5-bd1d4e6aa308"
+                    },
+                    {
+                        "id": "1566287935914996",
+                        "sort": 2,
+                        "depth": 1,
+                        "_id": 1932997072671,
+                        "type": "resource",
+                        "resource": "f4f4c9a0-6107-43a9-b0f8-25b3ff5a19f9"
+                    },
+                    {
+                        "id": "1566287935916672",
+                        "sort": 3,
+                        "depth": 1,
+                        "_id": 426123621625,
+                        "type": "resource",
+                        "resource": "879f963a-2d95-4f70-ba72-9c98bf253c3e"
+                    }
+                ],
+                "max": 3,
+                "and": true,
+                "gap": 30,
+                "name": {
+                    "FR": "Socialiser son chiot"
+                },
+                "id": "1565270619903210",
+                "sort": 3,
+                "_id": 4569319374723,
+                "type": "step"
+            },
+            {
+                "depth": 0,
+                "min": 3,
+                "children": [
+                    {
+                        "id": "15662881916738",
+                        "sort": 1,
+                        "depth": 1,
+                        "_id": 1293340240179,
+                        "type": "resource",
+                        "resource": "47a1a72a-8d8c-413a-91d7-4c56f624b1f4"
+                    },
+                    {
+                        "id": "1566288191684484",
+                        "sort": 2,
+                        "depth": 1,
+                        "_id": 5725393170991,
+                        "type": "resource",
+                        "resource": "55debae8-fb33-4880-84ef-761764387fb0"
+                    },
+                    {
+                        "id": "156628819168692",
+                        "sort": 3,
+                        "depth": 1,
+                        "_id": 7213290499074,
+                        "type": "resource",
+                        "resource": "a63e3da4-5ace-42fe-a64e-ad15cdf093bc"
+                    }
+                ],
+                "max": 3,
+                "and": true,
+                "gap": 30,
+                "name": {
+                    "FR": "Apprendre à son chiot à rester seul"
+                },
+                "id": "1565270633199336",
+                "sort": 4,
+                "_id": 2096565194239,
+                "type": "step"
+            },
+            {
+                "depth": 0,
+                "min": 3,
+                "children": [
+                    {
+                        "id": "1566288392645173",
+                        "sort": 1,
+                        "depth": 1,
+                        "_id": 5184759045206,
+                        "type": "resource",
+                        "resource": "3c11970c-82da-4337-a10e-6dc5d8348754"
+                    },
+                    {
+                        "id": "1566288392657497",
+                        "sort": 2,
+                        "depth": 1,
+                        "_id": 5009585466127,
+                        "type": "resource",
+                        "resource": "b6cbe8be-14a7-45c1-85fb-eb44b95cb16b"
+                    },
+                    {
+                        "id": "1566288392660320",
+                        "sort": 3,
+                        "depth": 1,
+                        "_id": 3464782784198,
+                        "type": "resource",
+                        "resource": "d8fe0467-0dde-424e-8a5f-b5123abc976e"
+                    }
+                ],
+                "max": 3,
+                "and": true,
+                "gap": 30,
+                "name": {
+                    "FR": "Apprendre à son chiot à se promener en sécurité"
+                },
+                "id": "156527064502456",
+                "sort": 5,
+                "_id": 8447324375448,
+                "type": "step"
+            }
+        ],
+        "idCriterias": [],
+        "description": {
+            "FR": "L'accueil d'un chiot à la maison est un évènement important, auquel vous pouvez vous préparez en suivant les conseils de notre expert."
+        },
+        "key": "accueillez votre chiot dans les meilleures conditions possibles ",
+        "tags": [
+            "050ef0b8-d656-44b0-9288-cc87ea99f9eb"
+        ]
+    },
+    {
+        "keyCatchPhrase": "comment gérer les douleurs chroniques de votre chat ?",
+        "expert": "c49433ec-bda0-4f01-95e1-4092efd1bb44",
+        "status": {
+            "FR": {
+                "translation": {
+                    "progress": 100,
+                    "total": 3,
+                    "completed": 3
+                },
+                "isSubmitted": false,
+                "submittedId": null,
+                "submittedDate": null
+            },
+            "EN": {
+                "translation": {
+                    "progress": 0,
+                    "total": 0,
+                    "completed": 0
+                },
+                "isSubmitted": false,
+                "submittedId": null,
+                "submittedDate": null
+            },
+            "ES": {
+                "translation": {
+                    "progress": 0,
+                    "total": 0,
+                    "completed": 0
+                },
+                "isSubmitted": false,
+                "submittedId": null,
+                "submittedDate": null
+            }
+        },
+        "createdAt": "2019-07-29T12:04:54.546Z",
+        "time": {
+            "duration": null,
+            "unite": null
+        },
+        "lastUpdatedAt": {
+            "FR": "2019-08-28T15:56:18.425Z"
+        },
+        "evaluation": [],
+        "name": {
+            "FR": "Apprenez comment identifier et soulager les douleurs chroniques de votre chat"
+        },
+        "idResource": [
+            "df64a199-eef2-4162-8820-453a04047e5e",
+            "9692ff91-0814-4850-a86e-4a1644501c35",
+            "ee037058-e40e-4057-9627-311d2bc135ec",
+            "a9cba410-8f48-4647-a225-fa93bf48ba78",
+            "b93b594f-857c-47f4-9695-41705360d878",
+            "5ef4f3a7-8ac5-4585-add5-dc6951c1140b",
+            "57cc3067-1423-4d99-9f1b-cbcdf61825ab",
+            "111a9fe0-f923-465c-adb7-cfb9ab948103",
+            "401fa05b-914b-4ba7-92d0-798052025beb",
+            "5eaf9e87-f827-40b7-a51a-14dfbfd5aa21",
+            "1b3e6a5c-094f-4bb2-928e-d18e0fb5b3ff",
+            "0d7e0db9-8582-4c22-8e39-46a1d941e82d",
+            "2f3addb4-3942-404c-94ef-76c18c0a7c78",
+            "6b537b43-1675-45d8-adad-0667555d1468",
+            "263701f0-2552-4ac5-a306-7f45bcac4fac",
+            "93633e42-5030-4a96-8bec-cdb36cdf4de8",
+            "48f968b7-ae90-4445-9557-b75fb18e2bc8",
+            "60d58603-ce51-4ebc-bd30-6f0ab4e6196e",
+            "6802b53d-ffb0-47b3-99bd-43088bb49d4b",
+            "8f5f9966-10bf-42f5-87b7-e5edc512bdae",
+            "41d26748-9b64-4b1f-a8b3-1e3c1b3150e4",
+            "71c90b9b-413e-4197-9f28-528912db2ba7",
+            "d302d94b-8619-4312-be1f-f8df1a99cedd",
+            "0d87d7f5-1fb8-4f7f-88b0-eb2e97f2166c",
+            "e6058e61-3fa9-4c8b-8c1a-448781fa3ef6",
+            "9272181e-e640-4d55-879d-f3d07e06bc0e",
+            "371dce0e-8277-491f-8857-d0b85b4c4999",
+            "b5f0dd05-9f0e-4405-939e-4dfa73fb20d7",
+            "5904ec06-55c0-448f-98f7-e87287710748",
+            "1010f8a6-6a73-4fac-9833-e701da0f5325",
+            "c713f7ce-aeda-401e-a607-5c8345755def",
+            "8336c1db-6c4c-4540-9f8d-0540aa029dbf",
+            "2bce766a-62b1-467d-815f-a14ed13b23eb",
+            "c6558051-da68-47b9-86c4-a0787210cb5b",
+            "ec55b283-66ba-4660-b0cf-92bfc8897a51",
+            "39f65f33-1acf-4f6f-8aae-c2a5ff5bab54",
+            "b136ec15-7ce4-412d-a4cc-b8aad216ae8d"
+        ],
+        "active": true,
+        "catchPhrase": {
+            "FR": "Comment gérer les douleurs chroniques de votre chat ?"
+        },
+        "image": null,
+        "_id": "56feec3d-00bd-4133-ab6a-917f4eef9208",
+        "category": "82123853-ed30-405c-b015-f4ab78430855",
+        "steps": [
+            {
+                "depth": 0,
+                "min": 10,
+                "children": [
+                    {
+                        "id": "1564412458639245",
+                        "sort": 1,
+                        "depth": 1,
+                        "_id": 2353263625652,
+                        "type": "resource",
+                        "resource": "df64a199-eef2-4162-8820-453a04047e5e"
+                    },
+                    {
+                        "id": "156441245865017",
+                        "sort": 2,
+                        "depth": 1,
+                        "_id": 3919766568545,
+                        "type": "resource",
+                        "resource": "9692ff91-0814-4850-a86e-4a1644501c35"
+                    },
+                    {
+                        "id": "1564412458651919",
+                        "sort": 3,
+                        "depth": 1,
+                        "_id": 2030881878203,
+                        "type": "resource",
+                        "resource": "ee037058-e40e-4057-9627-311d2bc135ec"
+                    },
+                    {
+                        "id": "1564412458653619",
+                        "sort": 4,
+                        "depth": 1,
+                        "_id": 1313403862688,
+                        "type": "resource",
+                        "resource": "a9cba410-8f48-4647-a225-fa93bf48ba78"
+                    },
+                    {
+                        "id": "1564412458655158",
+                        "sort": 5,
+                        "depth": 1,
+                        "_id": 3323027031262,
+                        "type": "resource",
+                        "resource": "b93b594f-857c-47f4-9695-41705360d878"
+                    },
+                    {
+                        "id": "1567007351441149",
+                        "sort": 6,
+                        "depth": 1,
+                        "_id": 1961975068954,
+                        "type": "resource",
+                        "resource": "5ef4f3a7-8ac5-4585-add5-dc6951c1140b"
+                    },
+                    {
+                        "id": "1567007351446289",
+                        "sort": 7,
+                        "depth": 1,
+                        "_id": 844317447523,
+                        "type": "resource",
+                        "resource": "57cc3067-1423-4d99-9f1b-cbcdf61825ab"
+                    },
+                    {
+                        "id": "1567007351448792",
+                        "sort": 8,
+                        "depth": 1,
+                        "_id": 5021322448039,
+                        "type": "resource",
+                        "resource": "111a9fe0-f923-465c-adb7-cfb9ab948103"
+                    },
+                    {
+                        "id": "1567007351451216",
+                        "sort": 9,
+                        "depth": 1,
+                        "_id": 8878778725481,
+                        "type": "resource",
+                        "resource": "401fa05b-914b-4ba7-92d0-798052025beb"
+                    },
+                    {
+                        "id": "1567007351453695",
+                        "sort": 10,
+                        "depth": 1,
+                        "_id": 7396080610596,
+                        "type": "resource",
+                        "resource": "5eaf9e87-f827-40b7-a51a-14dfbfd5aa21"
+                    }
+                ],
+                "max": 10,
+                "and": true,
+                "gap": 30,
+                "name": {
+                    "FR": "Evaluer la douleur"
+                },
+                "id": "1564412402050290",
+                "sort": 2,
+                "_id": 5080442686709,
+                "type": "step"
+            },
+            {
+                "depth": 0,
+                "min": 11,
+                "children": [
+                    {
+                        "id": "1567006578924598",
+                        "sort": 1,
+                        "depth": 1,
+                        "_id": 72285353477,
+                        "type": "resource",
+                        "resource": "1b3e6a5c-094f-4bb2-928e-d18e0fb5b3ff"
+                    },
+                    {
+                        "id": "1567006578954176",
+                        "sort": 2,
+                        "depth": 1,
+                        "_id": 7481687810789,
+                        "type": "resource",
+                        "resource": "0d7e0db9-8582-4c22-8e39-46a1d941e82d"
+                    },
+                    {
+                        "id": "1567006578956843",
+                        "sort": 3,
+                        "depth": 1,
+                        "_id": 8608991732360,
+                        "type": "resource",
+                        "resource": "2f3addb4-3942-404c-94ef-76c18c0a7c78"
+                    },
+                    {
+                        "id": "1567006578957961",
+                        "sort": 4,
+                        "depth": 1,
+                        "_id": 6464125217375,
+                        "type": "resource",
+                        "resource": "6b537b43-1675-45d8-adad-0667555d1468"
+                    },
+                    {
+                        "id": "1567006578959605",
+                        "sort": 5,
+                        "depth": 1,
+                        "_id": 1523936668974,
+                        "type": "resource",
+                        "resource": "263701f0-2552-4ac5-a306-7f45bcac4fac"
+                    },
+                    {
+                        "id": "1567006578961903",
+                        "sort": 6,
+                        "depth": 1,
+                        "_id": 3398995373430,
+                        "type": "resource",
+                        "resource": "93633e42-5030-4a96-8bec-cdb36cdf4de8"
+                    },
+                    {
+                        "id": "1567006578963412",
+                        "sort": 7,
+                        "depth": 1,
+                        "_id": 2618475050768,
+                        "type": "resource",
+                        "resource": "48f968b7-ae90-4445-9557-b75fb18e2bc8"
+                    },
+                    {
+                        "id": "1567006578966593",
+                        "sort": 8,
+                        "depth": 1,
+                        "_id": 6241849273148,
+                        "type": "resource",
+                        "resource": "60d58603-ce51-4ebc-bd30-6f0ab4e6196e"
+                    },
+                    {
+                        "id": "156700657896823",
+                        "sort": 9,
+                        "depth": 1,
+                        "_id": 3817803058160,
+                        "type": "resource",
+                        "resource": "6802b53d-ffb0-47b3-99bd-43088bb49d4b"
+                    },
+                    {
+                        "id": "1567006939420951",
+                        "sort": 10,
+                        "depth": 1,
+                        "_id": 7690909774628,
+                        "type": "resource",
+                        "resource": "8f5f9966-10bf-42f5-87b7-e5edc512bdae"
+                    },
+                    {
+                        "id": "1567006939444597",
+                        "sort": 11,
+                        "depth": 1,
+                        "_id": 8979434851209,
+                        "type": "resource",
+                        "resource": "41d26748-9b64-4b1f-a8b3-1e3c1b3150e4"
+                    }
+                ],
+                "max": 11,
+                "and": true,
+                "gap": 30,
+                "name": {
+                    "FR": "Identifier la douleur chronique "
+                },
+                "id": "1567005765538145",
+                "sort": 1,
+                "_id": 2527745411064,
+                "type": "step"
+            },
+            {
+                "depth": 0,
+                "min": 16,
+                "children": [
+                    {
+                        "id": "1564410557060140",
+                        "sort": 1,
+                        "depth": 1,
+                        "_id": 2670448003858,
+                        "type": "resource",
+                        "resource": "71c90b9b-413e-4197-9f28-528912db2ba7"
+                    },
+                    {
+                        "id": "1564410557100599",
+                        "sort": 2,
+                        "depth": 1,
+                        "_id": 7556981049813,
+                        "type": "resource",
+                        "resource": "d302d94b-8619-4312-be1f-f8df1a99cedd"
+                    },
+                    {
+                        "id": "1564410557102171",
+                        "sort": 3,
+                        "depth": 1,
+                        "_id": 9738149241484,
+                        "type": "resource",
+                        "resource": "0d87d7f5-1fb8-4f7f-88b0-eb2e97f2166c"
+                    },
+                    {
+                        "id": "1564410557104654",
+                        "sort": 4,
+                        "depth": 1,
+                        "_id": 356097593266,
+                        "type": "resource",
+                        "resource": "e6058e61-3fa9-4c8b-8c1a-448781fa3ef6"
+                    },
+                    {
+                        "id": "1564410557106963",
+                        "sort": 5,
+                        "depth": 1,
+                        "_id": 2694845798831,
+                        "type": "resource",
+                        "resource": "9272181e-e640-4d55-879d-f3d07e06bc0e"
+                    },
+                    {
+                        "id": "1564410557108257",
+                        "sort": 6,
+                        "depth": 1,
+                        "_id": 2420810206579,
+                        "type": "resource",
+                        "resource": "371dce0e-8277-491f-8857-d0b85b4c4999"
+                    },
+                    {
+                        "id": "1564410557110451",
+                        "sort": 7,
+                        "depth": 1,
+                        "_id": 1161058670586,
+                        "type": "resource",
+                        "resource": "b5f0dd05-9f0e-4405-939e-4dfa73fb20d7"
+                    },
+                    {
+                        "id": "1564410557114972",
+                        "sort": 8,
+                        "depth": 1,
+                        "_id": 8881352129798,
+                        "type": "resource",
+                        "resource": "5904ec06-55c0-448f-98f7-e87287710748"
+                    },
+                    {
+                        "id": "1567007739675388",
+                        "sort": 9,
+                        "depth": 1,
+                        "_id": 1584366083718,
+                        "type": "resource",
+                        "resource": "1010f8a6-6a73-4fac-9833-e701da0f5325"
+                    },
+                    {
+                        "id": "156700773968292",
+                        "sort": 10,
+                        "depth": 1,
+                        "_id": 9580072586397,
+                        "type": "resource",
+                        "resource": "c713f7ce-aeda-401e-a607-5c8345755def"
+                    },
+                    {
+                        "id": "1567007739684518",
+                        "sort": 11,
+                        "depth": 1,
+                        "_id": 8633534277639,
+                        "type": "resource",
+                        "resource": "8336c1db-6c4c-4540-9f8d-0540aa029dbf"
+                    },
+                    {
+                        "id": "1567007739687712",
+                        "sort": 12,
+                        "depth": 1,
+                        "_id": 1745278685323,
+                        "type": "resource",
+                        "resource": "2bce766a-62b1-467d-815f-a14ed13b23eb"
+                    },
+                    {
+                        "id": "1567007739689665",
+                        "sort": 13,
+                        "depth": 1,
+                        "_id": 82758940819,
+                        "type": "resource",
+                        "resource": "c6558051-da68-47b9-86c4-a0787210cb5b"
+                    },
+                    {
+                        "id": "1567007739692552",
+                        "sort": 14,
+                        "depth": 1,
+                        "_id": 2232951875449,
+                        "type": "resource",
+                        "resource": "ec55b283-66ba-4660-b0cf-92bfc8897a51"
+                    },
+                    {
+                        "id": "1567007739696258",
+                        "sort": 15,
+                        "depth": 1,
+                        "_id": 3594818016984,
+                        "type": "resource",
+                        "resource": "39f65f33-1acf-4f6f-8aae-c2a5ff5bab54"
+                    },
+                    {
+                        "id": "1567007763917922",
+                        "sort": 16,
+                        "depth": 1,
+                        "_id": 2565195829709,
+                        "type": "resource",
+                        "resource": "b136ec15-7ce4-412d-a4cc-b8aad216ae8d"
+                    }
+                ],
+                "max": 16,
+                "and": true,
+                "gap": 30,
+                "name": {
+                    "FR": "Former une alliance thérapeutique avec son vétérinaire"
+                },
+                "id": "1564410426518211",
+                "sort": 3,
+                "_id": 1401391187453,
+                "type": "step"
+            }
+        ],
+        "idCriterias": [],
+        "description": {
+            "FR": "Comment savoir si votre chat souffre de douleurs chroniques ? Comment estimer l'intensité de ses douleurs et quels sont les moyens à votre disposition pour les soulager ? Notre expert vous dit tout !"
+        },
+        "key": "apprenez comment identifier et soulager les douleurs chroniques de votre chat",
+        "tags": [
+            "a6b4a372-24a2-401f-aca9-d130d450e61f"
+        ]
+    },
+    {
+        "keyCatchPhrase": "passez votre bbb (brevet basique bien-etre) chat !",
+        "expert": "d63776c0-a3bb-4e49-a1b7-ebae30766707",
+        "status": {
+            "FR": {
+                "translation": {
+                    "progress": 100,
+                    "total": 3,
+                    "completed": 3
+                },
+                "isSubmitted": false,
+                "submittedId": null,
+                "submittedDate": null
+            },
+            "EN": {
+                "translation": {
+                    "progress": 0,
+                    "total": 0,
+                    "completed": 0
+                },
+                "isSubmitted": false,
+                "submittedId": null,
+                "submittedDate": null
+            },
+            "ES": {
+                "translation": {
+                    "progress": 0,
+                    "total": 0,
+                    "completed": 0
+                },
+                "isSubmitted": false,
+                "submittedId": null,
+                "submittedDate": null
+            }
+        },
+        "createdAt": "2019-07-29T07:21:57.921Z",
+        "time": {
+            "duration": null,
+            "unite": null
+        },
+        "lastUpdatedAt": {
+            "FR": "2019-09-11T12:33:48.678Z"
+        },
+        "evaluation": [],
+        "name": {
+            "FR": "Brevet Basique du Bien-être Chat"
+        },
+        "idResource": [
+            "66057212-24b7-40aa-994f-95781ab831a7",
+            "681d0c22-ac8f-455e-aa49-484d069f31a2",
+            "ddbc78a7-7fa1-4365-b3ae-5a33c73377ec",
+            "832aee76-2a2c-4a9f-bb6f-369693b4ea4f",
+            "633fecc8-620d-4d4c-8319-14795e77aec3",
+            "3d26cd8c-0b11-4495-9332-6246ac8b9a92",
+            "7228e6fe-743f-4d65-a2e9-794a52e8bf94",
+            "9b3d58a3-4d9f-479e-afc6-a64c6847f239",
+            "f2f27d7e-61e5-4030-84aa-953f6314240f",
+            "a61d3c8d-c83f-4f36-9765-b04047930ca5",
+            "068cb548-8882-4022-b0f6-3b4a07e47878",
+            "c07e6835-24d6-4515-9058-626682025dc0",
+            "7f7de2d4-c81c-413f-bd3c-92bc7de1cc9e",
+            "d4b4f843-9eae-455b-a863-4826b6d5c912",
+            "b3d9d4a7-247a-4b50-a4ec-b9bbda8d1064",
+            "88f28911-d81d-4bd1-a507-56279e905019",
+            "0b8b8e35-23f5-4b83-9843-18c32a4b17c5",
+            "c76bdf62-8e52-4c4f-b045-7ea97d97e60e",
+            "608ab7c1-9d85-4c00-94fd-a3a9ac0a6abd",
+            "abb7d7fb-d097-4bd2-be05-f552025e93a6",
+            "f3f6d908-2b71-4df3-8690-bdf4290876a7",
+            "b010a4b4-e7b5-478f-8053-a208bd79094a",
+            "b8ddec36-4e0a-403a-949b-0931dede955e"
+        ],
+        "active": true,
+        "catchPhrase": {
+            "FR": "Passez votre BBB (Brevet Basique Bien-Etre) chat !"
+        },
+        "image": {
+            "name": "Capture d’écran 2019-07-29 à 10.40.47.png",
+            "ETag": "\"2c52f0150654debde121d8f221cfb9de\"",
+            "Bucket": "ziwig-moonkee-assets-prod",
+            "key": "1564389722537781_Capture d’écran 2019-07-29 à 10.40.47.png",
+            "Key": "1564389722537781_Capture d’écran 2019-07-29 à 10.40.47.png",
+            "Location": "https://ziwig-moonkee-assets-prod.s3.eu-west-1.amazonaws.com/1564389722537781_Capture%20d%E2%80%99e%CC%81cran%202019-07-29%20a%CC%80%2010.40.47.png"
+        },
+        "_id": "20ad8650-16a7-494d-bfc7-f351790b337d",
+        "category": "c1e80824-66a8-485c-ac3c-665e294f0a2b",
+        "steps": [
+            {
+                "depth": 0,
+                "min": 7,
+                "children": [
+                    {
+                        "id": "1565253686060883",
+                        "sort": 1,
+                        "depth": 1,
+                        "_id": 6490927147862,
+                        "type": "resource",
+                        "resource": "66057212-24b7-40aa-994f-95781ab831a7"
+                    },
+                    {
+                        "id": "1565253686081548",
+                        "sort": 2,
+                        "depth": 1,
+                        "_id": 4583364976515,
+                        "type": "resource",
+                        "resource": "681d0c22-ac8f-455e-aa49-484d069f31a2"
+                    },
+                    {
+                        "id": "1565253686083877",
+                        "sort": 3,
+                        "depth": 1,
+                        "_id": 7181029333313,
+                        "type": "resource",
+                        "resource": "ddbc78a7-7fa1-4365-b3ae-5a33c73377ec"
+                    },
+                    {
+                        "id": "1565253686085211",
+                        "sort": 4,
+                        "depth": 1,
+                        "_id": 3423842289957,
+                        "type": "resource",
+                        "resource": "832aee76-2a2c-4a9f-bb6f-369693b4ea4f"
+                    },
+                    {
+                        "id": "1565253686086668",
+                        "sort": 5,
+                        "depth": 1,
+                        "_id": 6047245722507,
+                        "type": "resource",
+                        "resource": "633fecc8-620d-4d4c-8319-14795e77aec3"
+                    },
+                    {
+                        "id": "1565253686088888",
+                        "sort": 6,
+                        "depth": 1,
+                        "_id": 1545857012307,
+                        "type": "resource",
+                        "resource": "3d26cd8c-0b11-4495-9332-6246ac8b9a92"
+                    },
+                    {
+                        "id": "1565253686090351",
+                        "sort": 7,
+                        "depth": 1,
+                        "_id": 8710233986164,
+                        "type": "resource",
+                        "resource": "7228e6fe-743f-4d65-a2e9-794a52e8bf94"
+                    }
+                ],
+                "max": 7,
+                "and": true,
+                "gap": 30,
+                "name": {
+                    "FR": "Comment bien nourrir son chat"
+                },
+                "id": "1565253410421988",
+                "sort": 1,
+                "_id": 9291863040630,
+                "type": "step"
+            },
+            {
+                "depth": 0,
+                "min": 4,
+                "children": [
+                    {
+                        "id": "1564388158583668",
+                        "sort": 1,
+                        "depth": 1,
+                        "_id": 9167885705003,
+                        "type": "resource",
+                        "resource": "9b3d58a3-4d9f-479e-afc6-a64c6847f239"
+                    },
+                    {
+                        "id": "1564388158599509",
+                        "sort": 2,
+                        "depth": 1,
+                        "_id": 6146044241947,
+                        "type": "resource",
+                        "resource": "f2f27d7e-61e5-4030-84aa-953f6314240f"
+                    },
+                    {
+                        "id": "1564388158601853",
+                        "sort": 3,
+                        "depth": 1,
+                        "_id": 3070521492104,
+                        "type": "resource",
+                        "resource": "a61d3c8d-c83f-4f36-9765-b04047930ca5"
+                    },
+                    {
+                        "id": "1564388158603737",
+                        "sort": 4,
+                        "depth": 1,
+                        "_id": 3055940177612,
+                        "type": "resource",
+                        "resource": "068cb548-8882-4022-b0f6-3b4a07e47878"
+                    }
+                ],
+                "max": 4,
+                "and": true,
+                "gap": 30,
+                "name": {
+                    "FR": "Comment créer une bonne relation avec son chat?"
+                },
+                "id": "1564384838830226",
+                "sort": 4,
+                "_id": 2391588201837,
+                "type": "step"
+            },
+            {
+                "depth": 0,
+                "min": 11,
+                "children": [
+                    {
+                        "id": "1568204815749137",
+                        "sort": 1,
+                        "depth": 1,
+                        "_id": 8649852999304,
+                        "type": "resource",
+                        "resource": "c07e6835-24d6-4515-9058-626682025dc0"
+                    },
+                    {
+                        "id": "1568204815794947",
+                        "sort": 2,
+                        "depth": 1,
+                        "_id": 2660988067267,
+                        "type": "resource",
+                        "resource": "7f7de2d4-c81c-413f-bd3c-92bc7de1cc9e"
+                    },
+                    {
+                        "id": "1568204815798727",
+                        "sort": 3,
+                        "depth": 1,
+                        "_id": 934436054686,
+                        "type": "resource",
+                        "resource": "d4b4f843-9eae-455b-a863-4826b6d5c912"
+                    },
+                    {
+                        "id": "1568204815801478",
+                        "sort": 4,
+                        "depth": 1,
+                        "_id": 1840178546061,
+                        "type": "resource",
+                        "resource": "b3d9d4a7-247a-4b50-a4ec-b9bbda8d1064"
+                    },
+                    {
+                        "id": "1568204815804734",
+                        "sort": 5,
+                        "depth": 1,
+                        "_id": 4343026027204,
+                        "type": "resource",
+                        "resource": "88f28911-d81d-4bd1-a507-56279e905019"
+                    },
+                    {
+                        "id": "1568204815806704",
+                        "sort": 6,
+                        "depth": 1,
+                        "_id": 7045393945186,
+                        "type": "resource",
+                        "resource": "0b8b8e35-23f5-4b83-9843-18c32a4b17c5"
+                    },
+                    {
+                        "id": "1568204815810483",
+                        "sort": 7,
+                        "depth": 1,
+                        "_id": 3156674519025,
+                        "type": "resource",
+                        "resource": "c76bdf62-8e52-4c4f-b045-7ea97d97e60e"
+                    },
+                    {
+                        "id": "1568204815814862",
+                        "sort": 8,
+                        "depth": 1,
+                        "_id": 8921195000092,
+                        "type": "resource",
+                        "resource": "608ab7c1-9d85-4c00-94fd-a3a9ac0a6abd"
+                    },
+                    {
+                        "id": "156820481581851",
+                        "sort": 9,
+                        "depth": 1,
+                        "_id": 5098902151780,
+                        "type": "resource",
+                        "resource": "abb7d7fb-d097-4bd2-be05-f552025e93a6"
+                    },
+                    {
+                        "id": "1568204815821784",
+                        "sort": 10,
+                        "depth": 1,
+                        "_id": 6309040251768,
+                        "type": "resource",
+                        "resource": "f3f6d908-2b71-4df3-8690-bdf4290876a7"
+                    },
+                    {
+                        "id": "1568205098372991",
+                        "sort": 11,
+                        "depth": 1,
+                        "_id": 3764302786521,
+                        "type": "resource",
+                        "resource": "b010a4b4-e7b5-478f-8053-a208bd79094a"
+                    }
+                ],
+                "max": 11,
+                "and": true,
+                "gap": 30,
+                "name": {
+                    "FR": "Comment bien entretenir son chat "
+                },
+                "id": "1568203629857571",
+                "sort": 2,
+                "_id": 629190104970,
+                "type": "step"
+            },
+            {
+                "depth": 0,
+                "min": 1,
+                "children": [
+                    {
+                        "id": "1564388171636332",
+                        "sort": 1,
+                        "depth": 1,
+                        "_id": 1994489579117,
+                        "type": "resource",
+                        "resource": "b8ddec36-4e0a-403a-949b-0931dede955e"
+                    }
+                ],
+                "max": 1,
+                "and": true,
+                "gap": 30,
+                "name": {
+                    "FR": "Quelles activités proposer à son chat?"
+                },
+                "id": "1564384855043232",
+                "sort": 5,
+                "_id": 2857488935315,
+                "type": "step"
+            }
+        ],
+        "idCriterias": [],
+        "description": {
+            "FR": "Avez-vous toutes les connaissances de base pour assurer le bien-être de votre chat ? Notre expert vous accompagne sur les différentes thématiques : alimentation, entretien, activités, relations…"
+        },
+        "key": "brevet basique du bien-être chat",
+        "tags": [
+            "ec625403-2e0e-4f2d-8c73-41567a6a2620"
+        ]
+    },
+    {
+        "keyCatchPhrase": "comment se préparer à la fin de vie de son animal ?",
+        "expert": "62aef5bb-a659-4886-bb6b-7fc3695472ce",
+        "status": {
+            "FR": {
+                "translation": {
+                    "progress": 100,
+                    "total": 3,
+                    "completed": 3
+                },
+                "isSubmitted": false,
+                "submittedId": null,
+                "submittedDate": null
+            },
+            "EN": {
+                "translation": {
+                    "progress": 0,
+                    "total": 0,
+                    "completed": 0
+                },
+                "isSubmitted": false,
+                "submittedId": null,
+                "submittedDate": null
+            },
+            "ES": {
+                "translation": {
+                    "progress": 0,
+                    "total": 0,
+                    "completed": 0
+                },
+                "isSubmitted": false,
+                "submittedId": null,
+                "submittedDate": null
+            }
+        },
+        "createdAt": "2019-08-08T12:02:01.290Z",
+        "time": {
+            "duration": null,
+            "unite": null
+        },
+        "lastUpdatedAt": {
+            "FR": "2019-08-20T08:18:23.942Z"
+        },
+        "evaluation": [],
+        "name": {
+            "FR": "Soyez accompagné dans ces moments douloureux"
+        },
+        "idResource": [],
+        "active": true,
+        "catchPhrase": {
+            "FR": "Comment se préparer à la fin de vie de son animal ?"
+        },
+        "image": null,
+        "_id": "e45d5068-e5fa-4681-aa7d-038279271e3a",
+        "category": "834024f9-b275-46fd-be5f-00afad8ef2e0",
+        "steps": [
+            {
+                "depth": 0,
+                "children": [],
+                "name": {
+                    "FR": "Comment savoir quand et comment l'animal va partir ? "
+                },
+                "id": "156526552967781",
+                "sort": 1,
+                "_id": 3067328543198,
+                "type": "step"
+            },
+            {
+                "depth": 0,
+                "children": [],
+                "name": {
+                    "FR": "Capacité du propriétaire à gérer la fin de vie"
+                },
+                "id": "156526561090617",
+                "sort": 2,
+                "_id": 5307388648532,
+                "type": "step"
+            },
+            {
+                "depth": 0,
+                "children": [],
+                "name": {
+                    "FR": "S'informer sur le devenir du corps et se préparer au décès de son animal par euthanasie"
+                },
+                "id": "1565265649945519",
+                "sort": 3,
+                "_id": 9309271083217,
+                "type": "step"
+            },
+            {
+                "depth": 0,
+                "children": [],
+                "name": {
+                    "FR": "Comment se déroule l'acte d'euthanasie ?"
+                },
+                "id": "1565265675277519",
+                "sort": 4,
+                "_id": 3226982063340,
+                "type": "step"
+            },
+            {
+                "depth": 0,
+                "children": [],
+                "name": {
+                    "FR": "Décider du devenir du corps"
+                },
+                "id": "1565265686811364",
+                "sort": 5,
+                "_id": 7891960641442,
+                "type": "step"
+            },
+            {
+                "depth": 0,
+                "children": [],
+                "name": {
+                    "FR": "Quelles sont les formalités administratives à effectuer ?"
+                },
+                "id": "1565265698820709",
+                "sort": 6,
+                "_id": 632003224246,
+                "type": "step"
+            },
+            {
+                "depth": 0,
+                "children": [],
+                "name": {
+                    "FR": "Vivre le deuil de son animal"
+                },
+                "id": "1565265708146744",
+                "sort": 7,
+                "_id": 3637212144879,
+                "type": "step"
+            }
+        ],
+        "idCriterias": [],
+        "description": {
+            "FR": "Quand prendre la décision de l'euthanasie ? Comment gérer son deuil ? Quelles sont les options à votre disposition ? Notre expert vous guide pour vivre le départ de votre animal dans les meilleures conditions possibles."
+        },
+        "key": "soyez accompagné dans ces moments douloureux",
+        "tags": [
+            "397e7a12-51b6-461e-a950-9ed621a7c49a",
+            "92b42974-7c22-441b-9f5d-2ff84e7c5c4c",
+            "8453fd9a-155e-404f-9edb-dcd1321dd4d6",
+            "e6947ed5-8752-4d11-9ab6-9bbec099ffb9",
+            "cb15aad1-3c81-49ef-b288-f9e5c2844cdc",
+            "3de88e9e-7e26-431c-9b15-bd3bb7a07fe0",
+            "ec625403-2e0e-4f2d-8c73-41567a6a2620"
+        ]
+    },
+    {
+        "keyCatchPhrase": "comment gérer les douleurs chroniques de votre chien ?",
+        "expert": "c49433ec-bda0-4f01-95e1-4092efd1bb44",
+        "status": {
+            "FR": {
+                "translation": {
+                    "progress": 100,
+                    "total": 3,
+                    "completed": 3
+                },
+                "isSubmitted": false,
+                "submittedId": null,
+                "submittedDate": null
+            },
+            "EN": {
+                "translation": {
+                    "progress": 0,
+                    "total": 0,
+                    "completed": 0
+                },
+                "isSubmitted": false,
+                "submittedId": null,
+                "submittedDate": null
+            },
+            "ES": {
+                "translation": {
+                    "progress": 0,
+                    "total": 0,
+                    "completed": 0
+                },
+                "isSubmitted": false,
+                "submittedId": null,
+                "submittedDate": null
+            }
+        },
+        "createdAt": "2019-07-29T13:53:12.425Z",
+        "time": {
+            "duration": null,
+            "unite": null
+        },
+        "lastUpdatedAt": {
+            "FR": "2019-08-29T15:46:19.847Z"
+        },
+        "evaluation": [],
+        "name": {
+            "FR": "Apprenez comment identifier et soulager les douleurs chroniques de votre chien"
+        },
+        "idResource": [
+            "0d1f214e-f8ee-42fa-8cc3-6cfcc08fa966",
+            "866ce7de-63b1-426c-be28-3a89d5eac0d3",
+            "7aecf5d3-da03-417c-a264-f450dfb84bfa",
+            "2b269a43-e4e3-4257-b0b2-09b75922e790",
+            "b168af48-4ba1-4fa7-82fa-04750ac5f80e",
+            "9dcba937-0473-4da6-b8be-03d0f91fd7c1",
+            "6d497ac5-7ec9-4217-8b09-dc59c6957495",
+            "d054d90c-9db8-4e25-a46c-d61e24143438",
+            "cb48dd76-8c40-4f21-9fce-722acbc558e0",
+            "9855e1f4-6140-48e0-a792-36efb2ef5699",
+            "cde8f472-94e3-459d-a797-88d06c32a8ab",
+            "2458ea44-5de1-4997-9d0a-94c00c67924f",
+            "1657253c-9932-4194-a950-400ed438ea03",
+            "7e97bda3-0ba3-4c49-b0e8-6d64b92b6120",
+            "6b56257a-e35c-46d8-8d96-2cc929957192",
+            "06a5796a-1119-48b0-9054-66bca818cc5b",
+            "ef4f9d07-7dfc-480c-90e2-b2a3167b5f9c",
+            "a4cb91cf-3027-4a92-bd61-278192a8f828",
+            "b136ec15-7ce4-412d-a4cc-b8aad216ae8d",
+            "23de4537-db7f-4ff8-8e24-5de00d322004",
+            "7013377b-c9c8-4e7a-9c7f-fe47590ada42",
+            "29cda34f-d255-4e2f-a137-c3a832083979",
+            "4f20de7f-58c8-4a89-a2c2-c716397796de",
+            "2997b9d9-eedc-4466-978f-1c7f1d9bf1d0",
+            "0f93d54e-3449-41ff-a798-f843057ae7a9",
+            "5588f38d-98a2-4daf-b4bd-a01de6607b48",
+            "4ab8c7a2-b247-4d7a-b798-a79eaa34db0f",
+            "0832ddd8-f476-4d0a-804d-3d4be16fdce4",
+            "38fbfb47-9693-4844-b243-87e2d905ac4f",
+            "cb3dfcfa-9d86-4cb3-8dc3-608e4bd53662"
+        ],
+        "active": true,
+        "catchPhrase": {
+            "FR": "Comment gérer les douleurs chroniques de votre chien ?"
+        },
+        "image": null,
+        "_id": "bd00d1ff-0338-435b-99ee-58916e0bca52",
+        "category": "82123853-ed30-405c-b015-f4ab78430855",
+        "steps": [
+            {
+                "depth": 0,
+                "min": 6,
+                "children": [
+                    {
+                        "id": "1564470733238417",
+                        "sort": 1,
+                        "depth": 1,
+                        "_id": 4116555039169,
+                        "type": "resource",
+                        "resource": "0d1f214e-f8ee-42fa-8cc3-6cfcc08fa966"
+                    },
+                    {
+                        "id": "1564470733267428",
+                        "sort": 2,
+                        "depth": 1,
+                        "_id": 8007190853742,
+                        "type": "resource",
+                        "resource": "866ce7de-63b1-426c-be28-3a89d5eac0d3"
+                    },
+                    {
+                        "id": "1564470733268985",
+                        "sort": 3,
+                        "depth": 1,
+                        "_id": 9416201209946,
+                        "type": "resource",
+                        "resource": "7aecf5d3-da03-417c-a264-f450dfb84bfa"
+                    },
+                    {
+                        "id": "1564470733269456",
+                        "sort": 4,
+                        "depth": 1,
+                        "_id": 248172162922,
+                        "type": "resource",
+                        "resource": "2b269a43-e4e3-4257-b0b2-09b75922e790"
+                    },
+                    {
+                        "id": "156447073327027",
+                        "sort": 5,
+                        "depth": 1,
+                        "_id": 8465920744234,
+                        "type": "resource",
+                        "resource": "b168af48-4ba1-4fa7-82fa-04750ac5f80e"
+                    },
+                    {
+                        "id": "1567092537312352",
+                        "sort": 6,
+                        "depth": 1,
+                        "_id": 3262310816149,
+                        "type": "resource",
+                        "resource": "9dcba937-0473-4da6-b8be-03d0f91fd7c1"
+                    }
+                ],
+                "max": 6,
+                "and": true,
+                "gap": 30,
+                "name": {
+                    "FR": "Identifier la douleur chronique du chien"
+                },
+                "id": "1564408241765609",
+                "sort": 1,
+                "_id": 9231730668790,
+                "type": "step"
+            },
+            {
+                "depth": 0,
+                "min": 10,
+                "children": [
+                    {
+                        "id": "1564470854017100",
+                        "sort": 1,
+                        "depth": 1,
+                        "_id": 6308769280107,
+                        "type": "resource",
+                        "resource": "6d497ac5-7ec9-4217-8b09-dc59c6957495"
+                    },
+                    {
+                        "id": "1564470854048687",
+                        "sort": 2,
+                        "depth": 1,
+                        "_id": 1746743262239,
+                        "type": "resource",
+                        "resource": "d054d90c-9db8-4e25-a46c-d61e24143438"
+                    },
+                    {
+                        "id": "1564470854050409",
+                        "sort": 3,
+                        "depth": 1,
+                        "_id": 458522299072,
+                        "type": "resource",
+                        "resource": "cb48dd76-8c40-4f21-9fce-722acbc558e0"
+                    },
+                    {
+                        "id": "1564470854052985",
+                        "sort": 4,
+                        "depth": 1,
+                        "_id": 6510435411165,
+                        "type": "resource",
+                        "resource": "9855e1f4-6140-48e0-a792-36efb2ef5699"
+                    },
+                    {
+                        "id": "1564470854054910",
+                        "sort": 5,
+                        "depth": 1,
+                        "_id": 5394924854520,
+                        "type": "resource",
+                        "resource": "cde8f472-94e3-459d-a797-88d06c32a8ab"
+                    },
+                    {
+                        "id": "1567092907079825",
+                        "sort": 6,
+                        "depth": 1,
+                        "_id": 1990462487514,
+                        "type": "resource",
+                        "resource": "2458ea44-5de1-4997-9d0a-94c00c67924f"
+                    },
+                    {
+                        "id": "1567092907094987",
+                        "sort": 7,
+                        "depth": 1,
+                        "_id": 3055773670294,
+                        "type": "resource",
+                        "resource": "1657253c-9932-4194-a950-400ed438ea03"
+                    },
+                    {
+                        "id": "1567092907100462",
+                        "sort": 9,
+                        "depth": 1,
+                        "_id": 9743749315704,
+                        "type": "resource",
+                        "resource": "7e97bda3-0ba3-4c49-b0e8-6d64b92b6120"
+                    },
+                    {
+                        "id": "1567092907107684",
+                        "sort": 11,
+                        "depth": 1,
+                        "_id": 2343708450159,
+                        "type": "resource",
+                        "resource": "6b56257a-e35c-46d8-8d96-2cc929957192"
+                    },
+                    {
+                        "id": "1567092907110477",
+                        "sort": 12,
+                        "depth": 1,
+                        "_id": 3708745110065,
+                        "type": "resource",
+                        "resource": "06a5796a-1119-48b0-9054-66bca818cc5b"
+                    }
+                ],
+                "max": 10,
+                "and": true,
+                "gap": 30,
+                "name": {
+                    "FR": "Evaluer la douleur du chien"
+                },
+                "id": "15644083591206",
+                "sort": 2,
+                "_id": 3022296918112,
+                "type": "step"
+            },
+            {
+                "depth": 0,
+                "min": 14,
+                "children": [
+                    {
+                        "id": "1564471070465745",
+                        "sort": 1,
+                        "depth": 1,
+                        "_id": 2238999020462,
+                        "type": "resource",
+                        "resource": "ef4f9d07-7dfc-480c-90e2-b2a3167b5f9c"
+                    },
+                    {
+                        "id": "1564471070477447",
+                        "sort": 2,
+                        "depth": 1,
+                        "_id": 9641025349652,
+                        "type": "resource",
+                        "resource": "a4cb91cf-3027-4a92-bd61-278192a8f828"
+                    },
+                    {
+                        "id": "1564471070480435",
+                        "sort": 3,
+                        "depth": 1,
+                        "_id": 1507535448005,
+                        "type": "resource",
+                        "resource": "b136ec15-7ce4-412d-a4cc-b8aad216ae8d"
+                    },
+                    {
+                        "id": "1564471070482864",
+                        "sort": 4,
+                        "depth": 1,
+                        "_id": 833554565580,
+                        "type": "resource",
+                        "resource": "23de4537-db7f-4ff8-8e24-5de00d322004"
+                    },
+                    {
+                        "id": "156447107048565",
+                        "sort": 5,
+                        "depth": 1,
+                        "_id": 9865554791216,
+                        "type": "resource",
+                        "resource": "7013377b-c9c8-4e7a-9c7f-fe47590ada42"
+                    },
+                    {
+                        "id": "1564471070487860",
+                        "sort": 6,
+                        "depth": 1,
+                        "_id": 8251460627731,
+                        "type": "resource",
+                        "resource": "29cda34f-d255-4e2f-a137-c3a832083979"
+                    },
+                    {
+                        "id": "1564471070490624",
+                        "sort": 7,
+                        "depth": 1,
+                        "_id": 3472190002536,
+                        "type": "resource",
+                        "resource": "4f20de7f-58c8-4a89-a2c2-c716397796de"
+                    },
+                    {
+                        "id": "1567093544746389",
+                        "sort": 8,
+                        "depth": 1,
+                        "_id": 823744630024,
+                        "type": "resource",
+                        "resource": "2997b9d9-eedc-4466-978f-1c7f1d9bf1d0"
+                    },
+                    {
+                        "id": "1567093544767401",
+                        "sort": 9,
+                        "depth": 1,
+                        "_id": 6381675667183,
+                        "type": "resource",
+                        "resource": "0f93d54e-3449-41ff-a798-f843057ae7a9"
+                    },
+                    {
+                        "id": "1567093544770461",
+                        "sort": 10,
+                        "depth": 1,
+                        "_id": 8650791214753,
+                        "type": "resource",
+                        "resource": "5588f38d-98a2-4daf-b4bd-a01de6607b48"
+                    },
+                    {
+                        "id": "1567093544773923",
+                        "sort": 11,
+                        "depth": 1,
+                        "_id": 3585895057522,
+                        "type": "resource",
+                        "resource": "4ab8c7a2-b247-4d7a-b798-a79eaa34db0f"
+                    },
+                    {
+                        "id": "1567093544777220",
+                        "sort": 12,
+                        "depth": 1,
+                        "_id": 9924858697397,
+                        "type": "resource",
+                        "resource": "0832ddd8-f476-4d0a-804d-3d4be16fdce4"
+                    },
+                    {
+                        "id": "1567093544781768",
+                        "sort": 13,
+                        "depth": 1,
+                        "_id": 7834042424135,
+                        "type": "resource",
+                        "resource": "38fbfb47-9693-4844-b243-87e2d905ac4f"
+                    },
+                    {
+                        "id": "1567093544784419",
+                        "sort": 14,
+                        "depth": 1,
+                        "_id": 8655619382899,
+                        "type": "resource",
+                        "resource": "cb3dfcfa-9d86-4cb3-8dc3-608e4bd53662"
+                    }
+                ],
+                "max": 14,
+                "and": true,
+                "gap": 30,
+                "name": {
+                    "FR": "Former une alliance thérapeutique avec son vétérinaire pour son chien"
+                },
+                "id": "1564408367636579",
+                "sort": 3,
+                "_id": 1055083946266,
+                "type": "step"
+            }
+        ],
+        "idCriterias": [],
+        "description": {
+            "FR": "Comment savoir si votre chien souffre de douleurs chroniques ? Comment estimer l'intensité de ses douleurs et quels sont les moyens à votre disposition pour les soulager ? Notre expert vous dit tout !"
+        },
+        "key": "apprenez comment identifier et soulager les douleurs chroniques de votre chien",
+        "tags": [
+            "a6b4a372-24a2-401f-aca9-d130d450e61f"
+        ]
+    },
+    {
+        "keyCatchPhrase": "comment faire en sorte que votre chat conserve son poids de forme et évite le surpoids",
+        "expert": "510a046e-68f7-4963-a2c6-bf2e0cc6a3d6",
+        "status": {
+            "FR": {
+                "translation": {
+                    "progress": 66.66666666666667,
+                    "total": 3,
+                    "completed": 2
+                },
+                "isSubmitted": false,
+                "submittedId": null,
+                "submittedDate": null
+            },
+            "EN": {
+                "translation": {
+                    "progress": 0,
+                    "total": 0,
+                    "completed": 0
+                },
+                "isSubmitted": false,
+                "submittedId": null,
+                "submittedDate": null
+            },
+            "ES": {
+                "translation": {
+                    "progress": 0,
+                    "total": 0,
+                    "completed": 0
+                },
+                "isSubmitted": false,
+                "submittedId": null,
+                "submittedDate": null
+            }
+        },
+        "createdAt": "2019-08-01T09:46:02.937Z",
+        "time": {
+            "duration": null,
+            "unite": null
+        },
+        "lastUpdatedAt": {
+            "FR": "2019-09-17T07:50:49.566Z"
+        },
+        "evaluation": [],
+        "name": {
+            "FR": "Eviter le surpoids chez le chat "
+        },
+        "idResource": [
+            "da97c142-61ec-4f51-8a44-05f50c931b02",
+            "b1674a3d-5a1b-4c48-b30e-21320ffa29a7",
+            "f7a911fd-500e-4dfe-b0cf-f1dcef99b695",
+            "36eca8fb-f98d-40ac-9278-5b4680f6f826",
+            "b108355d-d139-4a9b-a5c2-0b03f037c030",
+            "a999c7cd-7a69-468d-bffb-f13de2bb2d0e",
+            "c7c5e007-dbc4-43d1-8b70-133d3e1265ae",
+            "8f02e16d-e3b3-4aed-8f57-fab1ebb450b1",
+            "ee4093b3-9105-4ace-a4e4-675b91790df8",
+            "94b0dcb6-c5b4-4593-8e3b-76fe30b330a0",
+            "2740e3e6-0c2f-4a96-a476-3a41ad54bce3",
+            "e8db22cf-ed57-4b8a-8088-43c437742225",
+            "8117cd98-c814-454b-8a4e-e020cb9d2a1e",
+            "3f485aa5-c762-404a-8339-9876c7d666b9",
+            "770af218-b1d4-4a88-a772-83fe911c5df5",
+            "602ebbf6-07c8-4d83-977c-714ca266adb6",
+            "a845e046-0288-4607-8f9b-0c70cd3cd501",
+            "fe2d617d-1384-455c-a386-0c6c8ad3600d",
+            "e984832c-b7fa-4c6a-8c21-8d5c9bcf5945",
+            "e1c394c3-55d0-410a-901e-c8af7f62555e",
+            "648b8709-6d19-4821-85e5-ca34747ffd58",
+            "64ef7cef-33d9-4264-b3cb-eef66f6e0edd",
+            "edaa6a81-8d43-4c24-af81-3d01ca8bfbdf",
+            "21bb0cdd-e007-485c-a65c-3faab9c0234e",
+            "c6faf840-2bb5-4c8c-87ee-a7c61c15714e",
+            "b4bb26a0-5e68-442e-94ce-a6f1e1478e76",
+            "872891f3-ee15-4292-bd96-a6eb5b5a7bcb",
+            "e1fe6f57-422b-4847-9793-87652ddc6aad",
+            "5b80d5f0-8622-4e4a-8f54-bfb622a62901",
+            "63a66aa4-e4af-4a87-a17a-481087630ebe",
+            "e9c0a69f-aed9-4272-9c78-fb9ef925e120",
+            "76aab7d5-c250-4a27-a467-9c6ff03a638c",
+            "5c92fd31-7011-46f3-be4f-5412d57a5f4e",
+            "2c9a56d5-2adc-4a1c-bdba-9cc171979091"
+        ],
+        "active": true,
+        "catchPhrase": {
+            "FR": "Comment faire en sorte que votre chat conserve son poids de forme et évite le surpoids"
+        },
+        "image": {
+            "name": "IMG_4765.JPG",
+            "ETag": "\"e192687db7c872c78b1fc1fa6aeebdb8\"",
+            "Bucket": "ziwig-moonkee-assets-uat",
+            "key": "1568706647290367_IMG_4765.JPG",
+            "Key": "1568706647290367_IMG_4765.JPG",
+            "Location": "https://ziwig-moonkee-assets-uat.s3.eu-west-1.amazonaws.com/1568706647290367_IMG_4765.JPG"
+        },
+        "_id": "55ba8f6a-3985-41be-a6ff-dc90adcf9715",
+        "category": "a178078f-48ae-4b47-8fc7-ca386354bc8d",
+        "steps": [
+            {
+                "depth": 0,
+                "min": 18,
+                "children": [
+                    {
+                        "id": "156518576151047",
+                        "sort": 1,
+                        "depth": 1,
+                        "_id": 8045286599482,
+                        "type": "resource",
+                        "resource": "da97c142-61ec-4f51-8a44-05f50c931b02"
+                    },
+                    {
+                        "id": "1565185761540115",
+                        "sort": 2,
+                        "depth": 1,
+                        "_id": 1310208759026,
+                        "type": "resource",
+                        "resource": "b1674a3d-5a1b-4c48-b30e-21320ffa29a7"
+                    },
+                    {
+                        "id": "156518576154146",
+                        "sort": 3,
+                        "depth": 1,
+                        "_id": 8976605901872,
+                        "type": "resource",
+                        "resource": "f7a911fd-500e-4dfe-b0cf-f1dcef99b695"
+                    },
+                    {
+                        "id": "1565185761542621",
+                        "sort": 4,
+                        "depth": 1,
+                        "_id": 9680724999768,
+                        "type": "resource",
+                        "resource": "36eca8fb-f98d-40ac-9278-5b4680f6f826"
+                    },
+                    {
+                        "id": "1565185761544157",
+                        "sort": 5,
+                        "depth": 1,
+                        "_id": 716853638068,
+                        "type": "resource",
+                        "resource": "b108355d-d139-4a9b-a5c2-0b03f037c030"
+                    },
+                    {
+                        "id": "1565185761545512",
+                        "sort": 6,
+                        "depth": 1,
+                        "_id": 8503300343021,
+                        "type": "resource",
+                        "resource": "a999c7cd-7a69-468d-bffb-f13de2bb2d0e"
+                    },
+                    {
+                        "id": "1565185761548651",
+                        "sort": 7,
+                        "depth": 1,
+                        "_id": 77894528598,
+                        "type": "resource",
+                        "resource": "c7c5e007-dbc4-43d1-8b70-133d3e1265ae"
+                    },
+                    {
+                        "id": "1565185761550934",
+                        "sort": 8,
+                        "depth": 1,
+                        "_id": 3993271537658,
+                        "type": "resource",
+                        "resource": "8f02e16d-e3b3-4aed-8f57-fab1ebb450b1"
+                    },
+                    {
+                        "id": "1565185761551789",
+                        "sort": 9,
+                        "depth": 1,
+                        "_id": 8274290192534,
+                        "type": "resource",
+                        "resource": "ee4093b3-9105-4ace-a4e4-675b91790df8"
+                    },
+                    {
+                        "id": "1565185761552913",
+                        "sort": 10,
+                        "depth": 1,
+                        "_id": 5166877580362,
+                        "type": "resource",
+                        "resource": "94b0dcb6-c5b4-4593-8e3b-76fe30b330a0"
+                    },
+                    {
+                        "id": "1565185761554177",
+                        "sort": 11,
+                        "depth": 1,
+                        "_id": 9727618566391,
+                        "type": "resource",
+                        "resource": "2740e3e6-0c2f-4a96-a476-3a41ad54bce3"
+                    },
+                    {
+                        "id": "1565185761556493",
+                        "sort": 12,
+                        "depth": 1,
+                        "_id": 1173269988185,
+                        "type": "resource",
+                        "resource": "e8db22cf-ed57-4b8a-8088-43c437742225"
+                    },
+                    {
+                        "id": "1565185761558860",
+                        "sort": 13,
+                        "depth": 1,
+                        "_id": 6741360026103,
+                        "type": "resource",
+                        "resource": "8117cd98-c814-454b-8a4e-e020cb9d2a1e"
+                    },
+                    {
+                        "id": "1565185761560167",
+                        "sort": 14,
+                        "depth": 1,
+                        "_id": 2506841708177,
+                        "type": "resource",
+                        "resource": "3f485aa5-c762-404a-8339-9876c7d666b9"
+                    },
+                    {
+                        "id": "1565185761562852",
+                        "sort": 15,
+                        "depth": 1,
+                        "_id": 8502466519551,
+                        "type": "resource",
+                        "resource": "770af218-b1d4-4a88-a772-83fe911c5df5"
+                    },
+                    {
+                        "id": "1565185761565775",
+                        "sort": 16,
+                        "depth": 1,
+                        "_id": 9350522492398,
+                        "type": "resource",
+                        "resource": "602ebbf6-07c8-4d83-977c-714ca266adb6"
+                    },
+                    {
+                        "id": "1565185761567564",
+                        "sort": 17,
+                        "depth": 1,
+                        "_id": 7253325731867,
+                        "type": "resource",
+                        "resource": "a845e046-0288-4607-8f9b-0c70cd3cd501"
+                    },
+                    {
+                        "id": "1568276919997492",
+                        "sort": 18,
+                        "depth": 1,
+                        "_id": 9650471732434,
+                        "type": "resource",
+                        "resource": "fe2d617d-1384-455c-a386-0c6c8ad3600d"
+                    }
+                ],
+                "max": 18,
+                "and": true,
+                "gap": 30,
+                "name": {
+                    "FR": "Comprendre les besoins nutritionnels de son chat"
+                },
+                "id": "1565185310072975",
+                "sort": 1,
+                "_id": 7045739818732,
+                "type": "step"
+            },
+            {
+                "depth": 0,
+                "min": 6,
+                "children": [
+                    {
+                        "id": "1565185905787814",
+                        "sort": 1,
+                        "depth": 1,
+                        "_id": 8869119558250,
+                        "type": "resource",
+                        "resource": "e984832c-b7fa-4c6a-8c21-8d5c9bcf5945"
+                    },
+                    {
+                        "id": "1565185905817947",
+                        "sort": 2,
+                        "depth": 1,
+                        "_id": 6369518957192,
+                        "type": "resource",
+                        "resource": "e1c394c3-55d0-410a-901e-c8af7f62555e"
+                    },
+                    {
+                        "id": "156518590581962",
+                        "sort": 3,
+                        "depth": 1,
+                        "_id": 6062017216685,
+                        "type": "resource",
+                        "resource": "648b8709-6d19-4821-85e5-ca34747ffd58"
+                    },
+                    {
+                        "id": "1565185905823515",
+                        "sort": 5,
+                        "depth": 1,
+                        "_id": 5730521190266,
+                        "type": "resource",
+                        "resource": "64ef7cef-33d9-4264-b3cb-eef66f6e0edd"
+                    },
+                    {
+                        "id": "1568277488726553",
+                        "sort": 5,
+                        "depth": 1,
+                        "_id": 9156345827235,
+                        "type": "resource",
+                        "resource": "edaa6a81-8d43-4c24-af81-3d01ca8bfbdf"
+                    }
+                ],
+                "max": 6,
+                "and": true,
+                "gap": 30,
+                "name": {
+                    "FR": "Evaluer les signes de surpoids"
+                },
+                "id": "1565185777312240",
+                "sort": 2,
+                "_id": 8326027080027,
+                "type": "step"
+            },
+            {
+                "depth": 0,
+                "min": 6,
+                "children": [
+                    {
+                        "id": "15651861919671",
+                        "sort": 1,
+                        "depth": 1,
+                        "_id": 5075799382377,
+                        "type": "resource",
+                        "resource": "21bb0cdd-e007-485c-a65c-3faab9c0234e"
+                    },
+                    {
+                        "id": "1565186191988340",
+                        "sort": 2,
+                        "depth": 1,
+                        "_id": 5503761557927,
+                        "type": "resource",
+                        "resource": "c6faf840-2bb5-4c8c-87ee-a7c61c15714e"
+                    },
+                    {
+                        "id": "1565186191990547",
+                        "sort": 3,
+                        "depth": 1,
+                        "_id": 4035889829323,
+                        "type": "resource",
+                        "resource": "b4bb26a0-5e68-442e-94ce-a6f1e1478e76"
+                    },
+                    {
+                        "id": "1565186191993185",
+                        "sort": 4,
+                        "depth": 1,
+                        "_id": 4032494193496,
+                        "type": "resource",
+                        "resource": "872891f3-ee15-4292-bd96-a6eb5b5a7bcb"
+                    },
+                    {
+                        "id": "1565186191996827",
+                        "sort": 5,
+                        "depth": 1,
+                        "_id": 8369585047006,
+                        "type": "resource",
+                        "resource": "e1fe6f57-422b-4847-9793-87652ddc6aad"
+                    },
+                    {
+                        "id": "1565186192002529",
+                        "sort": 6,
+                        "depth": 1,
+                        "_id": 8757122348753,
+                        "type": "resource",
+                        "resource": "5b80d5f0-8622-4e4a-8f54-bfb622a62901"
+                    }
+                ],
+                "max": 6,
+                "and": true,
+                "gap": 30,
+                "name": {
+                    "FR": "Comprendre les risques du surpoids"
+                },
+                "id": "156518601145319",
+                "sort": 3,
+                "_id": 3180963482528,
+                "type": "step"
+            },
+            {
+                "depth": 0,
+                "min": 5,
+                "children": [
+                    {
+                        "id": "156518636635877",
+                        "sort": 1,
+                        "depth": 1,
+                        "_id": 6068277948130,
+                        "type": "resource",
+                        "resource": "63a66aa4-e4af-4a87-a17a-481087630ebe"
+                    },
+                    {
+                        "id": "1565186366344419",
+                        "sort": 2,
+                        "depth": 1,
+                        "_id": 7266453053724,
+                        "type": "resource",
+                        "resource": "e9c0a69f-aed9-4272-9c78-fb9ef925e120"
+                    },
+                    {
+                        "id": "1565186366361874",
+                        "sort": 3,
+                        "depth": 1,
+                        "_id": 7918794725814,
+                        "type": "resource",
+                        "resource": "76aab7d5-c250-4a27-a467-9c6ff03a638c"
+                    },
+                    {
+                        "id": "1565186366365982",
+                        "sort": 4,
+                        "depth": 1,
+                        "_id": 7558408629720,
+                        "type": "resource",
+                        "resource": "5c92fd31-7011-46f3-be4f-5412d57a5f4e"
+                    },
+                    {
+                        "id": "1565186366368832",
+                        "sort": 5,
+                        "depth": 1,
+                        "_id": 1122377618404,
+                        "type": "resource",
+                        "resource": "2c9a56d5-2adc-4a1c-bdba-9cc171979091"
+                    }
+                ],
+                "max": 5,
+                "and": true,
+                "gap": 30,
+                "name": {
+                    "FR": "Comprendre le comportement alimentaire"
+                },
+                "id": "156518620465264",
+                "sort": 4,
+                "_id": 5535574754629,
+                "type": "step"
+            }
+        ],
+        "idCriterias": [],
+        "description": {
+            "FR": "Votre chat va bientôt être stérilisé ? Il a tendance à moins bouger et donc à prendre du poids ? Notre expert vous explique les bases de la nutrition féline et vous donne les clés pour éviter le surpoids pour un chat en pleine santé !"
+        },
+        "key": "eviter le surpoids chez le chat ",
+        "tags": [
+            "ec625403-2e0e-4f2d-8c73-41567a6a2620"
+        ]
+    },
+    {
+        "keyCatchPhrase": "des solutions pour appréhender la malpropreté chez le chat.",
+        "expert": "d63776c0-a3bb-4e49-a1b7-ebae30766707",
+        "status": {
+            "FR": {
+                "translation": {
+                    "progress": 100,
+                    "total": 3,
+                    "completed": 3
+                },
+                "isSubmitted": false,
+                "submittedId": null,
+                "submittedDate": null
+            },
+            "EN": {
+                "translation": {
+                    "progress": 0,
+                    "total": 0,
+                    "completed": 0
+                },
+                "isSubmitted": false,
+                "submittedId": null,
+                "submittedDate": null
+            },
+            "ES": {
+                "translation": {
+                    "progress": 0,
+                    "total": 0,
+                    "completed": 0
+                },
+                "isSubmitted": false,
+                "submittedId": null,
+                "submittedDate": null
+            }
+        },
+        "createdAt": "2019-08-08T12:17:01.350Z",
+        "time": {
+            "duration": null,
+            "unite": null
+        },
+        "lastUpdatedAt": {
+            "FR": "2019-09-09T13:54:59.753Z"
+        },
+        "evaluation": [],
+        "name": {
+            "FR": "Mon chat est malpropre, que faire ?"
+        },
+        "idResource": [
+            "10c0102a-1dd0-498c-9d7a-2a2318f9318c",
+            "315afa20-404e-4bbd-a2fc-9570bccc9d40",
+            "3a0b23ba-05c2-4760-b9bc-46e809e0159f",
+            "e4b8e644-0852-4cf8-bfe4-a3c4152063be",
+            "ce4bb518-4c98-4d77-a485-4b1bfd0de122",
+            "b80eae64-c6ef-4570-bee5-2c27c54c4a43",
+            "ca889bfd-3cd0-4ff0-a6ab-e026faf92560",
+            "991cc2d4-d0e1-4e58-bde5-1b156c2b3548"
+        ],
+        "active": true,
+        "catchPhrase": {
+            "FR": "Des solutions pour appréhender la malpropreté chez le chat."
+        },
+        "image": null,
+        "_id": "56b55d8d-e96d-4fb7-b5d7-073aa899f0e0",
+        "category": "d0cea432-5a35-48ef-a1c1-7a45aef5cc3c",
+        "steps": [
+            {
+                "depth": 0,
+                "min": 3,
+                "children": [
+                    {
+                        "id": "156803696613041",
+                        "sort": 1,
+                        "depth": 1,
+                        "_id": 5007345619475,
+                        "type": "resource",
+                        "resource": "10c0102a-1dd0-498c-9d7a-2a2318f9318c"
+                    },
+                    {
+                        "id": "1568036966159144",
+                        "sort": 2,
+                        "depth": 1,
+                        "_id": 8972639817031,
+                        "type": "resource",
+                        "resource": "315afa20-404e-4bbd-a2fc-9570bccc9d40"
+                    },
+                    {
+                        "id": "1568036966160249",
+                        "sort": 3,
+                        "depth": 1,
+                        "_id": 6640058966455,
+                        "type": "resource",
+                        "resource": "3a0b23ba-05c2-4760-b9bc-46e809e0159f"
+                    }
+                ],
+                "max": 3,
+                "and": true,
+                "gap": 30,
+                "name": {
+                    "FR": "Identifier le type de malpropreté"
+                },
+                "id": "1565266177551654",
+                "sort": 1,
+                "_id": 6913272267775,
+                "type": "step"
+            },
+            {
+                "depth": 0,
+                "min": 1,
+                "children": [
+                    {
+                        "id": "1568037000602634",
+                        "sort": 1,
+                        "depth": 1,
+                        "_id": 9733941378914,
+                        "type": "resource",
+                        "resource": "e4b8e644-0852-4cf8-bfe4-a3c4152063be"
+                    }
+                ],
+                "max": 1,
+                "and": true,
+                "gap": 30,
+                "name": {
+                    "FR": "Faire un contrôle vétérinaire"
+                },
+                "id": "1565266236609201",
+                "sort": 2,
+                "_id": 3524484698799,
+                "type": "step"
+            },
+            {
+                "depth": 0,
+                "min": 2,
+                "children": [
+                    {
+                        "id": "1568037219483417",
+                        "sort": 1,
+                        "depth": 1,
+                        "_id": 6867504913430,
+                        "type": "resource",
+                        "resource": "ce4bb518-4c98-4d77-a485-4b1bfd0de122"
+                    },
+                    {
+                        "id": "1568037219495219",
+                        "sort": 2,
+                        "depth": 1,
+                        "_id": 3269364959700,
+                        "type": "resource",
+                        "resource": "b80eae64-c6ef-4570-bee5-2c27c54c4a43"
+                    }
+                ],
+                "max": 2,
+                "and": true,
+                "gap": 30,
+                "name": {
+                    "FR": "Remédier au marquage"
+                },
+                "id": "1565266249175277",
+                "sort": 3,
+                "_id": 9840967816477,
+                "type": "step"
+            },
+            {
+                "depth": 0,
+                "min": 2,
+                "children": [
+                    {
+                        "id": "1568037287660370",
+                        "sort": 1,
+                        "depth": 1,
+                        "_id": 2850881594900,
+                        "type": "resource",
+                        "resource": "ca889bfd-3cd0-4ff0-a6ab-e026faf92560"
+                    },
+                    {
+                        "id": "1568037287673129",
+                        "sort": 2,
+                        "depth": 1,
+                        "_id": 1112209405119,
+                        "type": "resource",
+                        "resource": "991cc2d4-d0e1-4e58-bde5-1b156c2b3548"
+                    }
+                ],
+                "max": 2,
+                "and": true,
+                "gap": 30,
+                "name": {
+                    "FR": "Remédier à l'élimination"
+                },
+                "id": "1565266259432806",
+                "sort": 4,
+                "_id": 6910429222896,
+                "type": "step"
+            }
+        ],
+        "idCriterias": [],
+        "description": {
+            "FR": "Votre chat urine en dehors de sa litière et vous ne savez pas quoi&nbsp; faire ? Notre expert vous guide pour identifier le type de malpropreté de votre chat et vous propose quelques solutions pour y remédier."
+        },
+        "key": "mon chat est malpropre, que faire ?",
+        "tags": [
+            "813afadf-3772-4f5e-97d2-4e25836de9fd",
+            "ec625403-2e0e-4f2d-8c73-41567a6a2620"
+        ]
+    },
+    {
+        "keyCatchPhrase": "passez votre bbb (brevet basique bien-etre) chien !",
+        "expert": "d63776c0-a3bb-4e49-a1b7-ebae30766707",
+        "status": {
+            "FR": {
+                "translation": {
+                    "progress": 100,
+                    "total": 3,
+                    "completed": 3
+                },
+                "isSubmitted": false,
+                "submittedId": null,
+                "submittedDate": null
+            },
+            "EN": {
+                "translation": {
+                    "progress": 0,
+                    "total": 0,
+                    "completed": 0
+                },
+                "isSubmitted": false,
+                "submittedId": null,
+                "submittedDate": null
+            },
+            "ES": {
+                "translation": {
+                    "progress": 0,
+                    "total": 0,
+                    "completed": 0
+                },
+                "isSubmitted": false,
+                "submittedId": null,
+                "submittedDate": null
+            }
+        },
+        "createdAt": "2019-07-29T08:53:54.991Z",
+        "time": {
+            "duration": null,
+            "unite": null
+        },
+        "lastUpdatedAt": {
+            "FR": "2019-09-11T15:41:45.679Z"
+        },
+        "evaluation": [],
+        "name": {
+            "FR": "Brevet Basique du Bien-être Chien"
+        },
+        "idResource": [
+            "bc661aa7-4bc9-4fe6-832b-b83dcd9fcf10",
+            "caf38606-0592-4870-8d56-782c0667c932",
+            "e0472aa9-e3c2-4b6f-be09-f480966de5ff",
+            "571f00c5-0fb5-4eb5-9c78-0aa6fc0705be",
+            "da93f8e6-3b1b-4d82-a7c9-1ce967daaf4a",
+            "6db3cd61-9fc3-40f9-a7d3-056382477bb7",
+            "f73dc710-bd85-4b3e-8a90-15390fd952a5",
+            "873f2ba9-7ad1-4b58-82de-fcebed3220a0",
+            "97355357-0ce5-495d-8529-cae2cf204752",
+            "a96f7383-5421-4f9e-96df-0465995cdd5e",
+            "9e1eb32a-8209-434f-ad17-4e559dbfc2a2",
+            "c9186b6e-f5d6-46ea-a011-dc6ee3ffb9a9",
+            "5d22a136-c731-4281-afa6-c6a266421292",
+            "a8ce48d5-e274-4e61-af52-23db7b12df33",
+            "c11e2731-c855-4796-9b53-51327f99abe2",
+            "2c26a8d3-fdf7-446c-abc4-e2880ae6ca18",
+            "cf98bba5-8bed-4642-a1bb-052a14e92764",
+            "f696eb2e-1bf5-42de-a4b4-438124d44361",
+            "43932fd1-f3c7-43f0-9780-5bc0ee417ad6",
+            "c06f1efb-57bb-4431-a0e3-890aa47ff2c0",
+            "2744f8dc-21c8-4ed9-849c-186fc5a02689",
+            "265c1384-ed50-4665-905c-fcd7f5574e4a",
+            "f25bb957-26d5-4c7b-8244-fd7eddb93682",
+            "dc8dcec0-8bda-426f-9958-4d567ef7b1d5",
+            "e0a6006e-7b75-4232-84b1-86301be6f924",
+            "6d1ba016-beef-4b47-b383-b4057f91a1b1",
+            "34b9fc59-1afb-49f5-8d39-8773ff693d1e",
+            "e99a0a84-2594-49ee-8082-22ebe55f44ef",
+            "7b13a61d-47b7-4156-bfb4-7e881263277b"
+        ],
+        "active": true,
+        "catchPhrase": {
+            "FR": "Passez votre BBB (Brevet Basique Bien-Etre) chien !"
+        },
+        "image": null,
+        "_id": "bcc83097-6aa8-455f-bd4d-46c2c646e6cb",
+        "category": "508340c3-b0eb-488e-b179-fd58ce028467",
+        "steps": [
+            {
+                "depth": 0,
+                "min": 1,
+                "children": [
+                    {
+                        "id": "1564397372187393",
+                        "sort": 1,
+                        "depth": 1,
+                        "_id": 9755467734568,
+                        "type": "resource",
+                        "resource": "bc661aa7-4bc9-4fe6-832b-b83dcd9fcf10"
+                    }
+                ],
+                "max": 1,
+                "and": true,
+                "gap": 30,
+                "name": {
+                    "FR": "Gérer les espaces du chien"
+                },
+                "id": "1564390311905653",
+                "sort": 1,
+                "_id": 7391632781719,
+                "type": "step"
+            },
+            {
+                "depth": 0,
+                "min": 6,
+                "children": [
+                    {
+                        "id": "1565259140105450",
+                        "sort": 1,
+                        "depth": 1,
+                        "_id": 6190502688580,
+                        "type": "resource",
+                        "resource": "caf38606-0592-4870-8d56-782c0667c932"
+                    },
+                    {
+                        "id": "1565259140114607",
+                        "sort": 2,
+                        "depth": 1,
+                        "_id": 6812720084405,
+                        "type": "resource",
+                        "resource": "e0472aa9-e3c2-4b6f-be09-f480966de5ff"
+                    },
+                    {
+                        "id": "1565259140115759",
+                        "sort": 3,
+                        "depth": 1,
+                        "_id": 9219653026338,
+                        "type": "resource",
+                        "resource": "571f00c5-0fb5-4eb5-9c78-0aa6fc0705be"
+                    },
+                    {
+                        "id": "1565259140116438",
+                        "sort": 4,
+                        "depth": 1,
+                        "_id": 3249999076161,
+                        "type": "resource",
+                        "resource": "da93f8e6-3b1b-4d82-a7c9-1ce967daaf4a"
+                    },
+                    {
+                        "id": "1565259140116599",
+                        "sort": 5,
+                        "depth": 1,
+                        "_id": 6151760153929,
+                        "type": "resource",
+                        "resource": "6db3cd61-9fc3-40f9-a7d3-056382477bb7"
+                    },
+                    {
+                        "id": "1568214946250823",
+                        "sort": 6,
+                        "depth": 1,
+                        "_id": 5015188034671,
+                        "type": "resource",
+                        "resource": "f73dc710-bd85-4b3e-8a90-15390fd952a5"
+                    }
+                ],
+                "max": 6,
+                "and": true,
+                "gap": 30,
+                "name": {
+                    "FR": "Comment bien nourrir son chien"
+                },
+                "id": "1565258932701851",
+                "sort": 2,
+                "_id": 2849643971780,
+                "type": "step"
+            },
+            {
+                "depth": 0,
+                "min": 12,
+                "children": [
+                    {
+                        "id": "156526476454883",
+                        "sort": 1,
+                        "depth": 1,
+                        "_id": 8501319982035,
+                        "type": "resource",
+                        "resource": "873f2ba9-7ad1-4b58-82de-fcebed3220a0"
+                    },
+                    {
+                        "id": "1565264764573274",
+                        "sort": 2,
+                        "depth": 1,
+                        "_id": 5452481078568,
+                        "type": "resource",
+                        "resource": "97355357-0ce5-495d-8529-cae2cf204752"
+                    },
+                    {
+                        "id": "1565264764574921",
+                        "sort": 3,
+                        "depth": 1,
+                        "_id": 5228528533862,
+                        "type": "resource",
+                        "resource": "a96f7383-5421-4f9e-96df-0465995cdd5e"
+                    },
+                    {
+                        "id": "1565264764575223",
+                        "sort": 4,
+                        "depth": 1,
+                        "_id": 4568881616876,
+                        "type": "resource",
+                        "resource": "9e1eb32a-8209-434f-ad17-4e559dbfc2a2"
+                    },
+                    {
+                        "id": "1565264764577371",
+                        "sort": 5,
+                        "depth": 1,
+                        "_id": 1398479890801,
+                        "type": "resource",
+                        "resource": "c9186b6e-f5d6-46ea-a011-dc6ee3ffb9a9"
+                    },
+                    {
+                        "id": "1565264764578556",
+                        "sort": 6,
+                        "depth": 1,
+                        "_id": 6327521021200,
+                        "type": "resource",
+                        "resource": "5d22a136-c731-4281-afa6-c6a266421292"
+                    },
+                    {
+                        "id": "1565264764580681",
+                        "sort": 7,
+                        "depth": 1,
+                        "_id": 8322106534693,
+                        "type": "resource",
+                        "resource": "a8ce48d5-e274-4e61-af52-23db7b12df33"
+                    },
+                    {
+                        "id": "1565264764581899",
+                        "sort": 8,
+                        "depth": 1,
+                        "_id": 380753700223,
+                        "type": "resource",
+                        "resource": "c11e2731-c855-4796-9b53-51327f99abe2"
+                    },
+                    {
+                        "id": "1565264764582595",
+                        "sort": 9,
+                        "depth": 1,
+                        "_id": 4119806112400,
+                        "type": "resource",
+                        "resource": "2c26a8d3-fdf7-446c-abc4-e2880ae6ca18"
+                    },
+                    {
+                        "id": "15652647645844",
+                        "sort": 10,
+                        "depth": 1,
+                        "_id": 543542592412,
+                        "type": "resource",
+                        "resource": "cf98bba5-8bed-4642-a1bb-052a14e92764"
+                    },
+                    {
+                        "id": "1565264764586947",
+                        "sort": 11,
+                        "depth": 1,
+                        "_id": 6708840841841,
+                        "type": "resource",
+                        "resource": "f696eb2e-1bf5-42de-a4b4-438124d44361"
+                    },
+                    {
+                        "id": "1565264764588444",
+                        "sort": 12,
+                        "depth": 1,
+                        "_id": 681902640573,
+                        "type": "resource",
+                        "resource": "43932fd1-f3c7-43f0-9780-5bc0ee417ad6"
+                    }
+                ],
+                "max": 12,
+                "and": true,
+                "gap": 30,
+                "name": {
+                    "FR": "Comment bien entretenir son chien"
+                },
+                "id": "156525914728818",
+                "sort": 3,
+                "_id": 3309339954110,
+                "type": "step"
+            },
+            {
+                "depth": 0,
+                "min": 5,
+                "children": [
+                    {
+                        "id": "1565265122680660",
+                        "sort": 1,
+                        "depth": 1,
+                        "_id": 9284727879659,
+                        "type": "resource",
+                        "resource": "c06f1efb-57bb-4431-a0e3-890aa47ff2c0"
+                    },
+                    {
+                        "id": "1565265122691132",
+                        "sort": 2,
+                        "depth": 1,
+                        "_id": 2626954824463,
+                        "type": "resource",
+                        "resource": "2744f8dc-21c8-4ed9-849c-186fc5a02689"
+                    },
+                    {
+                        "id": "1565265122693417",
+                        "sort": 3,
+                        "depth": 1,
+                        "_id": 521648935238,
+                        "type": "resource",
+                        "resource": "265c1384-ed50-4665-905c-fcd7f5574e4a"
+                    },
+                    {
+                        "id": "1565265122695445",
+                        "sort": 4,
+                        "depth": 1,
+                        "_id": 8914051692890,
+                        "type": "resource",
+                        "resource": "f25bb957-26d5-4c7b-8244-fd7eddb93682"
+                    },
+                    {
+                        "id": "1565265122697855",
+                        "sort": 5,
+                        "depth": 1,
+                        "_id": 4215834451589,
+                        "type": "resource",
+                        "resource": "dc8dcec0-8bda-426f-9958-4d567ef7b1d5"
+                    }
+                ],
+                "max": 5,
+                "and": true,
+                "gap": 30,
+                "name": {
+                    "FR": "Comment créer une bonne relation avec son chien"
+                },
+                "id": "1565264781164491",
+                "sort": 4,
+                "_id": 3372942397255,
+                "type": "step"
+            },
+            {
+                "depth": 0,
+                "min": 4,
+                "children": [
+                    {
+                        "id": "1565265361756770",
+                        "sort": 1,
+                        "depth": 1,
+                        "_id": 7528893091465,
+                        "type": "resource",
+                        "resource": "e0a6006e-7b75-4232-84b1-86301be6f924"
+                    },
+                    {
+                        "id": "1565265361768857",
+                        "sort": 2,
+                        "depth": 1,
+                        "_id": 2265230346880,
+                        "type": "resource",
+                        "resource": "6d1ba016-beef-4b47-b383-b4057f91a1b1"
+                    },
+                    {
+                        "id": "1565265361771916",
+                        "sort": 3,
+                        "depth": 1,
+                        "_id": 9241086067322,
+                        "type": "resource",
+                        "resource": "34b9fc59-1afb-49f5-8d39-8773ff693d1e"
+                    },
+                    {
+                        "id": "1565265361773175",
+                        "sort": 4,
+                        "depth": 1,
+                        "_id": 9615195120614,
+                        "type": "resource",
+                        "resource": "e99a0a84-2594-49ee-8082-22ebe55f44ef"
+                    }
+                ],
+                "max": 4,
+                "and": true,
+                "gap": 30,
+                "name": {
+                    "FR": "Quelles activités proposer à son chien"
+                },
+                "id": "1565265129277852",
+                "sort": 5,
+                "_id": 2484172505007,
+                "type": "step"
+            },
+            {
+                "depth": 0,
+                "min": 1,
+                "children": [
+                    {
+                        "id": "1568216497390762",
+                        "sort": 1,
+                        "depth": 1,
+                        "_id": 8127060622300,
+                        "type": "resource",
+                        "resource": "7b13a61d-47b7-4156-bfb4-7e881263277b"
+                    }
+                ],
+                "max": 1,
+                "and": true,
+                "gap": 30,
+                "name": {
+                    "FR": "Présentation expert"
+                },
+                "id": "1568216191279324",
+                "sort": 6,
+                "_id": 3452818762764,
+                "type": "step"
+            }
+        ],
+        "idCriterias": [],
+        "description": {
+            "FR": "Avez-vous toutes les connaissances de base pour assurer le bien-être de votre chien ? Notre expert vous accompagne sur les différentes thématiques : alimentation, entretien, activités, relations…"
+        },
+        "key": "brevet basique du bien-être chien",
+        "tags": [
+            "397e7a12-51b6-461e-a950-9ed621a7c49a"
+        ]
+    },
+    {
+        "keyCatchPhrase": "comment prendre soin d'un chien âgé ?",
+        "expert": "5b1b653e-9092-4100-84f1-380b031684fa",
+        "status": {
+            "FR": {
+                "translation": {
+                    "progress": 100,
+                    "total": 3,
+                    "completed": 3
+                },
+                "isSubmitted": false,
+                "submittedId": null,
+                "submittedDate": null
+            },
+            "EN": {
+                "translation": {
+                    "progress": 0,
+                    "total": 0,
+                    "completed": 0
+                },
+                "isSubmitted": false,
+                "submittedId": null,
+                "submittedDate": null
+            },
+            "ES": {
+                "translation": {
+                    "progress": 0,
+                    "total": 0,
+                    "completed": 0
+                },
+                "isSubmitted": false,
+                "submittedId": null,
+                "submittedDate": null
+            }
+        },
+        "createdAt": "2019-07-31T07:39:08.076Z",
+        "time": {
+            "duration": null,
+            "unite": null
+        },
+        "lastUpdatedAt": {
+            "FR": "2019-08-20T08:22:33.648Z"
+        },
+        "evaluation": [],
+        "name": {
+            "FR": "Comment faire en sorte que votre chien âgé reste en bonne santé le plus longtemps possible ?"
+        },
+        "idResource": [
+            "9319bca7-83d8-470a-96f1-6179863f9cd2",
+            "4bf58d4e-2e38-4c01-a977-987defe8289d",
+            "bb596789-52e1-4ab8-96a6-5d0f1907e142",
+            "1e974e70-7af5-4ab1-8c3e-82a8a422bb6d",
+            "41466bb9-7739-44e0-99c1-067d33ad538f",
+            "11035d07-61ba-4762-abae-52c83603de22",
+            "3fd7b2ba-05cc-4f12-ab85-d46bc39cd569",
+            "61228ef3-b536-4780-8456-a718e1b02140",
+            "dd74779b-050d-4bfb-b80b-32ca6d0fa9f7",
+            "376917d2-e861-4d70-a63d-b535554438f4",
+            "2b64fbb6-ae7a-4e53-b62b-9f8b5932fb7e",
+            "9355b4b4-29fc-43a7-bb7d-286f8c48fc34",
+            "faf7bfe0-f76c-4e62-8bc1-51e1c4c41cb8",
+            "3c41f324-75cd-4c69-9541-6269497806ad",
+            "6d5d3c15-318f-43ab-9e8b-03e90cc73762",
+            "21c66399-683e-41e1-8276-7c9636ef8c5a",
+            "ba82c783-b9e3-446e-ba7d-3afc224dc8d1",
+            "b8c62890-835e-413b-9557-4149caf9f329",
+            "c03af97d-e25e-4263-b6a2-abc08c5945bc",
+            "ad2cd8f7-320c-4f58-a9a3-2d7b86f1dad2",
+            "735ed798-9ecc-458a-91a4-89db40cacd2f"
+        ],
+        "active": true,
+        "catchPhrase": {
+            "FR": "Comment prendre soin d'un chien âgé ?"
+        },
+        "image": null,
+        "_id": "8c8935f8-bba1-4ebc-9478-96f740597aa3",
+        "category": "c1e80824-66a8-485c-ac3c-665e294f0a2b",
+        "steps": [
+            {
+                "depth": 0,
+                "min": 1,
+                "children": [
+                    {
+                        "id": "1565187136557252",
+                        "sort": 1,
+                        "depth": 1,
+                        "_id": 6839634612437,
+                        "type": "resource",
+                        "resource": "9319bca7-83d8-470a-96f1-6179863f9cd2"
+                    }
+                ],
+                "max": 1,
+                "and": true,
+                "gap": 30,
+                "name": {
+                    "FR": "A partir de quand considère-t-on qu'un chien est âgé ?"
+                },
+                "id": "1565187068161936",
+                "sort": 1,
+                "_id": 3412326903301,
+                "type": "step"
+            },
+            {
+                "depth": 0,
+                "min": 7,
+                "children": [
+                    {
+                        "id": "1565187402119310",
+                        "sort": 1,
+                        "depth": 1,
+                        "_id": 6657205593340,
+                        "type": "resource",
+                        "resource": "4bf58d4e-2e38-4c01-a977-987defe8289d"
+                    },
+                    {
+                        "id": "1565187402128789",
+                        "sort": 2,
+                        "depth": 1,
+                        "_id": 2411846657235,
+                        "type": "resource",
+                        "resource": "bb596789-52e1-4ab8-96a6-5d0f1907e142"
+                    },
+                    {
+                        "id": "1565187402129762",
+                        "sort": 3,
+                        "depth": 1,
+                        "_id": 3309936622277,
+                        "type": "resource",
+                        "resource": "1e974e70-7af5-4ab1-8c3e-82a8a422bb6d"
+                    },
+                    {
+                        "id": "1565187402130100",
+                        "sort": 4,
+                        "depth": 1,
+                        "_id": 9498273602656,
+                        "type": "resource",
+                        "resource": "41466bb9-7739-44e0-99c1-067d33ad538f"
+                    },
+                    {
+                        "id": "1565187402130511",
+                        "sort": 5,
+                        "depth": 1,
+                        "_id": 872036756731,
+                        "type": "resource",
+                        "resource": "11035d07-61ba-4762-abae-52c83603de22"
+                    },
+                    {
+                        "id": "1565187402131608",
+                        "sort": 6,
+                        "depth": 1,
+                        "_id": 475102612582,
+                        "type": "resource",
+                        "resource": "3fd7b2ba-05cc-4f12-ab85-d46bc39cd569"
+                    },
+                    {
+                        "id": "1565187402132518",
+                        "sort": 7,
+                        "depth": 1,
+                        "_id": 2357474078836,
+                        "type": "resource",
+                        "resource": "61228ef3-b536-4780-8456-a718e1b02140"
+                    }
+                ],
+                "max": 7,
+                "and": true,
+                "gap": 30,
+                "name": {
+                    "FR": "Comment observer les signes de vieillissement du chien ?"
+                },
+                "id": "1565187145056456",
+                "sort": 2,
+                "_id": 9935767267936,
+                "type": "step"
+            },
+            {
+                "depth": 0,
+                "min": 6,
+                "children": [
+                    {
+                        "id": "1565187922070853",
+                        "sort": 1,
+                        "depth": 1,
+                        "_id": 7345034309094,
+                        "type": "resource",
+                        "resource": "dd74779b-050d-4bfb-b80b-32ca6d0fa9f7"
+                    },
+                    {
+                        "id": "1565187922100249",
+                        "sort": 2,
+                        "depth": 1,
+                        "_id": 672996298294,
+                        "type": "resource",
+                        "resource": "376917d2-e861-4d70-a63d-b535554438f4"
+                    },
+                    {
+                        "id": "1565187922103901",
+                        "sort": 3,
+                        "depth": 1,
+                        "_id": 366959632318,
+                        "type": "resource",
+                        "resource": "2b64fbb6-ae7a-4e53-b62b-9f8b5932fb7e"
+                    },
+                    {
+                        "id": "1565187922104302",
+                        "sort": 4,
+                        "depth": 1,
+                        "_id": 4390358061977,
+                        "type": "resource",
+                        "resource": "9355b4b4-29fc-43a7-bb7d-286f8c48fc34"
+                    },
+                    {
+                        "id": "156518792210516",
+                        "sort": 5,
+                        "depth": 1,
+                        "_id": 4382599373725,
+                        "type": "resource",
+                        "resource": "faf7bfe0-f76c-4e62-8bc1-51e1c4c41cb8"
+                    },
+                    {
+                        "id": "1565187922106178",
+                        "sort": 6,
+                        "depth": 1,
+                        "_id": 24405938397,
+                        "type": "resource",
+                        "resource": "3c41f324-75cd-4c69-9541-6269497806ad"
+                    }
+                ],
+                "max": 6,
+                "and": true,
+                "gap": 30,
+                "name": {
+                    "FR": "Comment adapter les besoins du chien âgé au quotidien ?"
+                },
+                "id": "1565187413094704",
+                "sort": 3,
+                "_id": 856896363057,
+                "type": "step"
+            },
+            {
+                "depth": 0,
+                "min": 1,
+                "children": [
+                    {
+                        "id": "1565188010743531",
+                        "sort": 1,
+                        "depth": 1,
+                        "_id": 8724747861282,
+                        "type": "resource",
+                        "resource": "6d5d3c15-318f-43ab-9e8b-03e90cc73762"
+                    }
+                ],
+                "max": 1,
+                "and": true,
+                "gap": 30,
+                "name": {
+                    "FR": "Pourquoi faire un bilan de santé chaque année à son chien ?"
+                },
+                "id": "1565187937379318",
+                "sort": 4,
+                "_id": 513242876443,
+                "type": "step"
+            },
+            {
+                "depth": 0,
+                "min": 6,
+                "children": [
+                    {
+                        "id": "1565188210615702",
+                        "sort": 1,
+                        "depth": 1,
+                        "_id": 4838301003035,
+                        "type": "resource",
+                        "resource": "21c66399-683e-41e1-8276-7c9636ef8c5a"
+                    },
+                    {
+                        "id": "1565188210627274",
+                        "sort": 2,
+                        "depth": 1,
+                        "_id": 376137570252,
+                        "type": "resource",
+                        "resource": "ba82c783-b9e3-446e-ba7d-3afc224dc8d1"
+                    },
+                    {
+                        "id": "1565188210629170",
+                        "sort": 3,
+                        "depth": 1,
+                        "_id": 6766752874586,
+                        "type": "resource",
+                        "resource": "b8c62890-835e-413b-9557-4149caf9f329"
+                    },
+                    {
+                        "id": "1565188210630404",
+                        "sort": 4,
+                        "depth": 1,
+                        "_id": 1995389269548,
+                        "type": "resource",
+                        "resource": "c03af97d-e25e-4263-b6a2-abc08c5945bc"
+                    },
+                    {
+                        "id": "1565188210634771",
+                        "sort": 5,
+                        "depth": 1,
+                        "_id": 4927290297338,
+                        "type": "resource",
+                        "resource": "ad2cd8f7-320c-4f58-a9a3-2d7b86f1dad2"
+                    },
+                    {
+                        "id": "1565188210636216",
+                        "sort": 6,
+                        "depth": 1,
+                        "_id": 5871779192178,
+                        "type": "resource",
+                        "resource": "735ed798-9ecc-458a-91a4-89db40cacd2f"
+                    }
+                ],
+                "max": 6,
+                "and": true,
+                "gap": 30,
+                "name": {
+                    "FR": "Les maladies du chien âgé"
+                },
+                "id": "1565188014441112",
+                "sort": 5,
+                "_id": 3886761337642,
+                "type": "step"
+            }
+        ],
+        "idCriterias": [],
+        "description": {
+            "FR": "Votre chien prend de l'âge et vous voulez vous assurer de son bien-être ? Notre expert vétérinaire vous guide étape par étape."
+        },
+        "key": "comment faire en sorte que votre chien âgé reste en bonne santé le plus longtemps possible ?",
+        "tags": [
+            "397e7a12-51b6-461e-a950-9ed621a7c49a",
+            "8453fd9a-155e-404f-9edb-dcd1321dd4d6"
+        ]
+    }
+]
