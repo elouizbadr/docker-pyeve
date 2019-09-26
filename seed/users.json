@@ -1,0 +1,210 @@
+[
+    {
+        "password": "$2a$08$d7W2yUpwNFEKuZ55NSsr4utr1fj2YVDvgzx4UVm0FoFU1qeWFuRae",
+        "active": true,
+        "salt": "e525b731-7bc9-4456-b81a-5b718a3dbed7",
+        "role": "EXPERT",
+        "followers": ["c49433ec-bda0-4f01-95e1-4092efd1bb44","ec89fe6e-43e5-4867-abef-c1e1b58023ce","62aef5bb-a659-4886-bb6b-7fc3695472ce"],
+        "lastName": "Beata",
+        "updatedAt": 1564495369978,
+        "_id": "d63776c0-a3bb-4e49-a1b7-ebae30766707",
+        "createdAt": 1558435129719,
+        "email": "claudebeata@gmail.com",
+        "firstName": "Claude"
+
+    },
+    {
+        "password": "$2a$08$nnqS0bhMALdXitmtgzImp.E/Eff8/7U.mwgmHvHy1Tw3cWN5y158i",
+        "active": true,
+        "currency": "GBP",
+        "role": "USER",
+        "salt": "403152c4-1ddc-47f2-80f2-db805743dd50",
+        "lastName": "Jourdain",
+        "updatedAt": 1566286008923,
+        "_id": "ec89fe6e-43e5-4867-abef-c1e1b58023ce",
+        "createdAt": 1566223691826,
+        "email": "kevin.jourdain@cie-veterinaires.fr",
+        "firstName": "kévin",
+        "lang": "FR"
+    },
+    {
+        "photo": {
+            "name": "Portrait_Cécile.jpg",
+            "ETag": "\"bc1f28f843c505483cb195e08adecb83\"",
+            "Bucket": "ziwig-moonkee-assets-prod",
+            "key": "155836236685180_Portrait_Cécile.jpg",
+            "Key": "155836236685180_Portrait_Cécile.jpg",
+            "Location": "https://ziwig-moonkee-assets-prod.s3.eu-west-1.amazonaws.com/155836236685180_Portrait_C%C3%A9cile.jpg"
+        },
+        "lastName": "Girardin Bonnefont",
+        "createdAt": 1557148775046,
+        "email": "cgirardinbonnefont@gmail.com",
+        "firstName": "Cécile",
+        "lang": "FR",
+        "info": {
+            "biography": "Vétérinaire diplômé de l'Ecole Nationale Vétérinaire de Toulouse",
+            "address": "12 Avenue du 14 Juillet, 93600 Aulnay-sous-Bois, France",
+            "facebook": "https://www.facebook.com/vetos93/"
+        },
+        "active": true,
+        "password": "$2a$08$xMILThBDRvbm/DH4a7I6Cue174NlIGhqVNOVTzyFLOiH7uDhSkRb6",
+        "role": "EXPERT",
+        "salt": "0f135e1a-8a3b-44bd-9922-341b23f4d562",
+        "updatedAt": 1564495382447,
+        "_id": "62aef5bb-a659-4886-bb6b-7fc3695472ce"
+    },
+    {
+        "password": "$2a$08$LTxYV8m9asddcC97lRb7eO3nlr1op2Tcvz2Ry3WbKgNeelizs66h.",
+        "active": true,
+        "role": "EXPERT",
+        "salt": "8904b422-5d49-42d9-a9ba-a308ab031b0b",
+        "lastName": "Poitte",
+        "updatedAt": 1564495387997,
+        "_id": "c49433ec-bda0-4f01-95e1-4092efd1bb44",
+        "createdAt": 1564401771026,
+        "email": "tpoitte@gmail.com",
+        "firstName": "Thierry"
+    },
+    {
+        "password": "$2a$08$rhtIPK0SbmCoR6S3cBSBquXqiFeaP9kcPINivlB6IArshT7aWUwNO",
+        "active": true,
+        "salt": "89f14fe7-6b6b-4d3b-aa99-81eb1187258a",
+        "role": "USER",
+        "lastName": "Lamothe",
+        "updatedAt": 1568705307069,
+        "_id": "c8c04452-296d-4bd4-8257-52a09aa25350",
+        "createdAt": 1568705307069,
+        "email": "sllamothe@gmail.com",
+        "firstName": "Stéphanie"
+    },
+    {
+        "password": "$2a$08$OihX6/6HspZYc8/xA3gmF.ibkaKJqfNdSH2ml5ezOy1pwg4XHPLP6",
+        "active": true,
+        "role": "EXPERT",
+        "salt": "317ed267-d94d-4d71-aab4-352dfcd3ac99",
+        "followers": "[\"0e07f3bc-6345-4447-a7b0-bbaf5fd50ea4\"]",
+        "lastName": "Thomas",
+        "updatedAt": 1565190288537,
+        "_id": "5b1b653e-9092-4100-84f1-380b031684fa",
+        "createdAt": 1564558571302,
+        "email": "gthomas@gmail.com",
+        "firstName": "Ghislaine"
+    },
+    {
+        "password": "$2a$08$KnVy9CdZy1lXoeTxJOpGauucAOHH23c0U5lSlZEYrkX.oorUXS7jW",
+        "active": false,
+        "salt": "a28c350c-4f59-45a0-9574-61da28489591",
+        "role": "USER",
+        "lastName": "Bryssinck",
+        "updatedAt": 1565789710161,
+        "_id": "e5cf19bd-2438-4a12-a92a-095bf6760c15",
+        "createdAt": 1565789710160,
+        "email": "rbryssin@gmail.com",
+        "firstName": "Rein"
+    },
+    {
+        "password": "$2a$08$rZBIuCPbvRIGGpTxAUGh5edalE6IvioggyAZ5OGvQ1LfPvNJXO3z.",
+        "active": true,
+        "role": "SUPER_ADMIN",
+        "salt": "b13591a1-8301-4783-a37a-0daf65266e94",
+        "lastName": "Lamothe",
+        "updatedAt": 1563536569436,
+        "_id": "0c2cdafe-47c1-4b0f-b32f-aac1db4c7955",
+        "createdAt": 1551801982077,
+        "email": "slamothe@irevolution.com",
+        "firstName": "Stéphanie"
+    },
+    {
+        "currency": "EUR",
+        "lastName": "Clavel ",
+        "createdAt": 1568273352260,
+        "email": "mclavel@gmail.com",
+        "firstName": "Maud",
+        "lang": "FR",
+        "info": {
+            "jobs": [
+                "ae99ef16-175d-4416-9623-60f3286c89aa",
+                "cb5d73f4-0c20-47f9-aaa5-343aea1afc4b"
+            ]
+        },
+        "active": true,
+        "password": "$2a$08$Cb42hUAjzOsPIPF66lN1zOHU1.WheHgeSrwldKnYNuQdvpGCN6jxO",
+        "role": "EXPERT",
+        "salt": "124496f9-5e0d-4fd3-8649-e9c3d978f192",
+        "updatedAt": 1568706010801,
+        "_id": "510a046e-68f7-4963-a2c6-bf2e0cc6a3d6"
+    },
+    {
+        "password": "$2a$08$Iq7wknWeSJDKwUf0rnVyFe2XiK5C3/7RxkI.neYnyjLFthTJiIPgW",
+        "active": true,
+        "salt": "e277ddb0-723d-4122-9fe4-fa930b01180a",
+        "role": "USER",
+        "lastName": "Guerraoui",
+        "updatedAt": 1566200486022,
+        "_id": "0a46e0ad-628b-45bd-a4e1-44b03f8f9df3",
+        "createdAt": 1566200444646,
+        "email": "rim.guerraoui@hotmail.com",
+        "firstName": "Rim"
+    },
+    {
+        "password": "$2a$08$SJhbAnrdnbKZd1i3SFlwAeQAFsf7hrRbxO1KqduEYrM7neokIgEwK",
+        "active": true,
+        "role": "USER",
+        "salt": "3fd722ed-1e13-4bed-8a56-928683d571ed",
+        "lastName": "Test",
+        "updatedAt": 1564999510003,
+        "_id": "0225471d-4a60-40ca-a757-dc5be9822768",
+        "createdAt": 1556101951616,
+        "email": "thibaut.cauliez@cie-veterinaires.fr",
+        "firstName": "Thibaut",
+        "lang": "FR"
+    },
+    {
+        "password": "$2a$08$MKROW5NHeQAJc.4NcfxNj.5cumZ7wcOdrRk.baR43SQqAnvfbuG3W",
+        "active": true,
+        "role": "SUPER_ADMIN",
+        "salt": "ac7df07d-dc67-40ce-bb79-e1beb1be18ab",
+        "lastName": "Benhaddouche",
+        "updatedAt": 1556100649335,
+        "_id": "39538d61-9391-4bdf-83d7-729ed8dce559",
+        "createdAt": 1551802050562,
+        "email": "camille.benhaddouche@cie-veterinaires.fr",
+        "firstName": "Camille"
+    },
+    {
+        "password": "$2a$08$08uyVOdgQmMVR.stLQUBUO3A8YBIC9g.h0d6Pz14KfXquLo7/rBEO",
+        "active": true,
+        "role": "SUPER_ADMIN",
+        "salt": "e398605b-39ae-48a5-af53-c3d1037a7d95",
+        "lastName": "GarelGalais",
+        "updatedAt": 1562252677748,
+        "_id": "b8d651f1-45bb-4eb5-a0aa-0c7ae48e376e",
+        "createdAt": 1560412386945,
+        "email": "egarelgalais@irevolution.com",
+        "firstName": "Emmanuelle"
+    },
+    {
+        "password": "$2a$08$M5SbGsg3hzty8D7hKxVn3eWylTGDAR3UZ1gCQRAwkYP2AkDdVOXva",
+        "active": true,
+        "role": "USER",
+        "salt": "d6b46e58-19b2-49bd-adff-70916032b5b8",
+        "lastName": "Gaillard",
+        "updatedAt": 1557943565498,
+        "_id": "6d3028bc-f323-42b9-ae20-6fe7cc296b57",
+        "createdAt": 1557943270288,
+        "email": "cg@benefik.com",
+        "firstName": "Cyril"
+    },
+    {
+        "password": "$2a$08$JjHviBTNjw4TLAqA9U3DluZPb.ATFplNBxzcsexGMinUtHFQhsuhm",
+        "active": true,
+        "role": "USER",
+        "salt": "dde7fcc2-f274-45bb-bdea-d976129d44ec",
+        "lastName": "Benhaddouche",
+        "updatedAt": 1556034610411,
+        "_id": "7a543865-3592-44ab-95a1-50e19eee3b94",
+        "createdAt": 1556012549569,
+        "email": "benhaddouchecamille@gmail.com",
+        "firstName": "Camille"
+    }
+]

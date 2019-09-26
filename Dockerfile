@@ -10,4 +10,4 @@ RUN echo "Building image with PORT=${PORT}" && \
 
 EXPOSE ${PORT}
 
-CMD [ "python", "./run.py" ]
+CMD [ "python", "run.py" ]

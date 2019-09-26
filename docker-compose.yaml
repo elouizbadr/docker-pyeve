@@ -11,10 +11,10 @@ services:
     PORT: 3000
   ports:
   - "3000:3000" #specify ports mapping
-  links:
-  - mongo # link this service to the mongo service
- 
- mongo:
-  image: mongo:3.6
-  ports:
-  - "27017:27017" # specify port forwarding
+#  links:
+#  - mongo # link this service to the mongo service
+# 
+# mongo:
+#  image: mongo:3.6
+#  ports:
+#  - "27017:27017" # specify port forwarding
